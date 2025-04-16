@@ -1,0 +1,4 @@
+Loading val dataloader successfully! -- 0.13184094429016113
+Loading Train dataloader successfully! -- 0.762479305267334
+Loading Test dataloader successfully! -- 0.25685620307922363
+Starting training process...

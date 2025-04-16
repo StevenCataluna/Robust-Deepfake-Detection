@@ -1,0 +1,399 @@
+Loading val dataloader successfully! -- 12.656348466873169
+Loading Train dataloader successfully! -- 46.875712871551514
+Loading Test dataloader successfully! -- 10.177690505981445
+Starting training process...
+Loading val dataloader successfully! -- 14.661262035369873
+Loading Train dataloader successfully! -- 49.17208433151245
+Loading Test dataloader successfully! -- 12.404406070709229
+Starting training process...
+Loading val dataloader successfully! -- 9.136677980422974
+Loading Train dataloader successfully! -- 43.11941456794739
+Loading Test dataloader successfully! -- 7.6633076667785645
+Starting training process...
+Loading val dataloader successfully! -- 9.910255432128906
+Loading Train dataloader successfully! -- 44.70222878456116
+Loading Test dataloader successfully! -- 7.867661237716675
+Starting training process...
+Loading val dataloader successfully! -- 11.082264423370361
+Loading Train dataloader successfully! -- 48.08373808860779
+Loading Test dataloader successfully! -- 11.601916074752808
+Starting training process...
+Loading val dataloader successfully! -- 12.533092498779297
+Loading Train dataloader successfully! -- 48.298670053482056
+Loading Test dataloader successfully! -- 12.21012806892395
+Starting training process...
+Loading val dataloader successfully! -- 15.189282417297363
+Loading Train dataloader successfully! -- 46.877777099609375
+Loading Test dataloader successfully! -- 9.169583797454834
+Starting training process...
+Loading val dataloader successfully! -- 14.407986164093018
+Loading Train dataloader successfully! -- 47.74170756340027
+Loading Test dataloader successfully! -- 11.678630352020264
+Loading val dataloader successfully! -- 13.407136917114258
+Loading Train dataloader successfully! -- 45.65000104904175
+Loading Test dataloader successfully! -- 11.112099409103394
+Loading val dataloader successfully! -- 13.667973041534424
+Loading Train dataloader successfully! -- 47.21989345550537
+Loading Test dataloader successfully! -- 10.06570839881897
+Starting training process...
+Loading val dataloader successfully! -- 15.328208923339844
+Loading Train dataloader successfully! -- 50.512144804000854
+Loading Test dataloader successfully! -- 12.172017574310303
+Starting training process...
+Epoch: [0][0/1021]	Time 26.243s (26.243s)	Speed 0.6 samples/s	Data 22.319s (22.319s)	Loss 694.32819 (694.32819)	Accuracy 0.562 (0.562)	 Cls Loss: 0.69282	 loss_cstency: 291.83983	 loss_hsic: 0.00002
+Epoch: [0][5/1021]	Time 2.284s (5.430s)	Speed 7.0 samples/s	Data 0.293s (3.851s)	Loss 732.13916 (717.34305)	Accuracy 0.562 (0.500)	 Cls Loss: 0.69333	 loss_cstency: 273.83594	 loss_hsic: 0.00002
+Epoch: [0][10/1021]	Time 1.030s (4.123s)	Speed 15.5 samples/s	Data 0.167s (2.745s)	Loss 655.92236 (706.95356)	Accuracy 0.500 (0.511)	 Cls Loss: 0.69310	 loss_cstency: 225.17890	 loss_hsic: 0.00002
+Epoch: [0][15/1021]	Time 1.080s (3.822s)	Speed 14.8 samples/s	Data 0.152s (2.590s)	Loss 562.27722 (692.73117)	Accuracy 0.375 (0.492)	 Cls Loss: 0.69657	 loss_cstency: 201.47959	 loss_hsic: 0.00001
+Epoch: [0][20/1021]	Time 1.102s (3.167s)	Speed 14.5 samples/s	Data 0.166s (2.011s)	Loss 776.84137 (681.16080)	Accuracy 0.500 (0.482)	 Cls Loss: 0.69057	 loss_cstency: 177.38067	 loss_hsic: 0.00001
+Epoch: [0][25/1021]	Time 0.975s (3.182s)	Speed 16.4 samples/s	Data 0.082s (2.064s)	Loss 513.33978 (656.62233)	Accuracy 0.500 (0.486)	 Cls Loss: 0.69116	 loss_cstency: 157.24590	 loss_hsic: 0.00001
+Epoch: [0][30/1021]	Time 0.993s (3.148s)	Speed 16.1 samples/s	Data 0.115s (2.063s)	Loss 498.20135 (631.80780)	Accuracy 0.438 (0.486)	 Cls Loss: 0.69340	 loss_cstency: 152.14253	 loss_hsic: 0.00002
+Epoch: [0][35/1021]	Time 5.608s (3.054s)	Speed 2.9 samples/s	Data 4.601s (1.937s)	Loss 540.71344 (616.92332)	Accuracy 0.500 (0.486)	 Cls Loss: 0.69004	 loss_cstency: 156.01011	 loss_hsic: 0.00003
+Epoch: [0][40/1021]	Time 1.873s (2.842s)	Speed 8.5 samples/s	Data 0.325s (1.729s)	Loss 511.32993 (606.80097)	Accuracy 0.500 (0.492)	 Cls Loss: 0.68938	 loss_cstency: 137.14610	 loss_hsic: 0.00003
+Epoch: [0][45/1021]	Time 1.207s (2.799s)	Speed 13.3 samples/s	Data 0.248s (1.686s)	Loss 469.52017 (594.36643)	Accuracy 0.500 (0.493)	 Cls Loss: 0.68913	 loss_cstency: 133.02322	 loss_hsic: 0.00003
+Epoch: [0][50/1021]	Time 1.224s (2.737s)	Speed 13.1 samples/s	Data 0.278s (1.621s)	Loss 479.79617 (584.01537)	Accuracy 0.625 (0.500)	 Cls Loss: 0.68371	 loss_cstency: 125.52751	 loss_hsic: 0.00002
+Epoch: [0][55/1021]	Time 1.646s (2.601s)	Speed 9.7 samples/s	Data 0.302s (1.493s)	Loss 454.35052 (573.42135)	Accuracy 0.625 (0.501)	 Cls Loss: 0.68027	 loss_cstency: 120.04898	 loss_hsic: 0.00003
+Epoch: [0][60/1021]	Time 1.058s (2.598s)	Speed 15.1 samples/s	Data 0.153s (1.494s)	Loss 452.00729 (564.59293)	Accuracy 0.625 (0.507)	 Cls Loss: 0.68784	 loss_cstency: 109.21264	 loss_hsic: 0.00003
+Epoch: [0][65/1021]	Time 4.112s (2.594s)	Speed 3.9 samples/s	Data 3.206s (1.490s)	Loss 408.28293 (555.89609)	Accuracy 0.562 (0.513)	 Cls Loss: 0.68676	 loss_cstency: 103.50745	 loss_hsic: 0.00003
+Epoch: [0][70/1021]	Time 2.649s (2.523s)	Speed 6.0 samples/s	Data 1.578s (1.421s)	Loss 430.47827 (548.58308)	Accuracy 0.688 (0.517)	 Cls Loss: 0.66733	 loss_cstency: 95.26767	 loss_hsic: 0.00003
+Epoch: [0][75/1021]	Time 1.894s (2.487s)	Speed 8.4 samples/s	Data 0.458s (1.381s)	Loss 455.60767 (542.24360)	Accuracy 0.625 (0.522)	 Cls Loss: 0.68282	 loss_cstency: 96.18660	 loss_hsic: 0.00003
+Epoch: [0][80/1021]	Time 1.145s (2.471s)	Speed 14.0 samples/s	Data 0.223s (1.365s)	Loss 423.76633 (537.09633)	Accuracy 0.562 (0.525)	 Cls Loss: 0.68356	 loss_cstency: 90.34775	 loss_hsic: 0.00003
+Epoch: [0][85/1021]	Time 1.500s (2.447s)	Speed 10.7 samples/s	Data 0.327s (1.335s)	Loss 402.40656 (530.36501)	Accuracy 0.750 (0.531)	 Cls Loss: 0.67739	 loss_cstency: 87.92839	 loss_hsic: 0.00001
+Epoch: [0][90/1021]	Time 1.546s (2.399s)	Speed 10.3 samples/s	Data 0.290s (1.289s)	Loss 381.40234 (523.67842)	Accuracy 0.875 (0.541)	 Cls Loss: 0.66123	 loss_cstency: 82.24096	 loss_hsic: 0.00001
+Epoch: [0][95/1021]	Time 1.311s (2.389s)	Speed 12.2 samples/s	Data 0.268s (1.283s)	Loss 392.72549 (518.20255)	Accuracy 0.562 (0.544)	 Cls Loss: 0.68694	 loss_cstency: 78.32102	 loss_hsic: 0.00002
+Epoch: [0][100/1021]	Time 3.480s (2.391s)	Speed 4.6 samples/s	Data 2.482s (1.278s)	Loss 376.65079 (513.11268)	Accuracy 0.688 (0.545)	 Cls Loss: 0.67534	 loss_cstency: 75.87489	 loss_hsic: 0.00003
+Epoch: [0][105/1021]	Time 1.433s (2.338s)	Speed 11.2 samples/s	Data 0.162s (1.227s)	Loss 468.11890 (509.50434)	Accuracy 0.625 (0.548)	 Cls Loss: 0.65864	 loss_cstency: 76.65435	 loss_hsic: 0.00001
+Epoch: [0][110/1021]	Time 1.331s (2.346s)	Speed 12.0 samples/s	Data 0.377s (1.236s)	Loss 399.74084 (504.47189)	Accuracy 0.562 (0.552)	 Cls Loss: 0.67020	 loss_cstency: 76.09810	 loss_hsic: 0.00002
+Epoch: [0][115/1021]	Time 1.360s (2.340s)	Speed 11.8 samples/s	Data 0.272s (1.233s)	Loss 417.43045 (500.62705)	Accuracy 0.688 (0.553)	 Cls Loss: 0.65731	 loss_cstency: 72.01223	 loss_hsic: 0.00003
+Epoch: [0][120/1021]	Time 1.406s (2.312s)	Speed 11.4 samples/s	Data 0.277s (1.198s)	Loss 399.63754 (497.03714)	Accuracy 0.562 (0.554)	 Cls Loss: 0.65213	 loss_cstency: 69.50661	 loss_hsic: 0.00002
+Epoch: [0][125/1021]	Time 1.966s (2.284s)	Speed 8.1 samples/s	Data 0.371s (1.170s)	Loss 413.33713 (493.29274)	Accuracy 0.500 (0.555)	 Cls Loss: 0.65439	 loss_cstency: 73.33543	 loss_hsic: 0.00002
+Epoch: [0][130/1021]	Time 1.029s (2.284s)	Speed 15.5 samples/s	Data 0.130s (1.171s)	Loss 398.27771 (489.89768)	Accuracy 0.625 (0.559)	 Cls Loss: 0.66670	 loss_cstency: 70.83480	 loss_hsic: 0.00001
+Epoch: [0][135/1021]	Time 6.354s (2.296s)	Speed 2.5 samples/s	Data 5.415s (1.177s)	Loss 451.63394 (486.22214)	Accuracy 0.438 (0.561)	 Cls Loss: 0.71681	 loss_cstency: 65.78920	 loss_hsic: 0.00003
+Epoch: [0][140/1021]	Time 1.780s (2.262s)	Speed 9.0 samples/s	Data 0.520s (1.144s)	Loss 398.81693 (482.92017)	Accuracy 0.688 (0.563)	 Cls Loss: 0.65513	 loss_cstency: 63.68219	 loss_hsic: 0.00003
+Epoch: [0][145/1021]	Time 1.132s (2.261s)	Speed 14.1 samples/s	Data 0.097s (1.145s)	Loss 360.68204 (479.45262)	Accuracy 0.688 (0.565)	 Cls Loss: 0.65294	 loss_cstency: 64.91027	 loss_hsic: 0.00002
+Epoch: [0][150/1021]	Time 1.033s (2.276s)	Speed 15.5 samples/s	Data 0.118s (1.159s)	Loss 406.80554 (476.36284)	Accuracy 0.562 (0.569)	 Cls Loss: 0.67260	 loss_cstency: 61.70840	 loss_hsic: 0.00001
+Epoch: [0][155/1021]	Time 1.721s (2.253s)	Speed 9.3 samples/s	Data 0.363s (1.133s)	Loss 412.85107 (474.64508)	Accuracy 0.500 (0.573)	 Cls Loss: 0.68943	 loss_cstency: 67.60824	 loss_hsic: 0.00002
+Epoch: [0][160/1021]	Time 1.515s (2.253s)	Speed 10.6 samples/s	Data 0.348s (1.133s)	Loss 398.36487 (471.42676)	Accuracy 0.562 (0.574)	 Cls Loss: 0.65676	 loss_cstency: 63.84965	 loss_hsic: 0.00001
+Epoch: [0][165/1021]	Time 1.593s (2.253s)	Speed 10.0 samples/s	Data 0.532s (1.134s)	Loss 392.76288 (468.78568)	Accuracy 0.750 (0.576)	 Cls Loss: 0.64810	 loss_cstency: 64.05180	 loss_hsic: 0.00001
+Epoch: [0][170/1021]	Time 5.805s (2.258s)	Speed 2.8 samples/s	Data 4.864s (1.138s)	Loss 370.16232 (466.19690)	Accuracy 0.562 (0.579)	 Cls Loss: 0.65206	 loss_cstency: 59.08791	 loss_hsic: 0.00003
+Epoch: [0][175/1021]	Time 1.454s (2.238s)	Speed 11.0 samples/s	Data 0.357s (1.116s)	Loss 361.00510 (463.56377)	Accuracy 0.688 (0.581)	 Cls Loss: 0.61438	 loss_cstency: 58.22455	 loss_hsic: 0.00003
+Epoch: [0][180/1021]	Time 1.874s (2.238s)	Speed 8.5 samples/s	Data 0.539s (1.115s)	Loss 359.90512 (460.99489)	Accuracy 0.500 (0.582)	 Cls Loss: 0.65990	 loss_cstency: 64.33338	 loss_hsic: 0.00002
+Epoch: [0][185/1021]	Time 1.298s (2.238s)	Speed 12.3 samples/s	Data 0.258s (1.113s)	Loss 371.08517 (458.81965)	Accuracy 0.625 (0.586)	 Cls Loss: 0.59315	 loss_cstency: 59.55069	 loss_hsic: 0.00003
+Epoch: [0][190/1021]	Time 1.752s (2.218s)	Speed 9.1 samples/s	Data 0.393s (1.091s)	Loss 370.63675 (456.34655)	Accuracy 0.938 (0.590)	 Cls Loss: 0.51301	 loss_cstency: 55.96762	 loss_hsic: 0.00002
+Epoch: [0][195/1021]	Time 1.369s (2.216s)	Speed 11.7 samples/s	Data 0.307s (1.089s)	Loss 390.22977 (454.26210)	Accuracy 0.750 (0.594)	 Cls Loss: 0.54377	 loss_cstency: 54.93632	 loss_hsic: 0.00002
+Epoch: [0][200/1021]	Time 2.016s (2.216s)	Speed 7.9 samples/s	Data 0.496s (1.088s)	Loss 388.11310 (452.71816)	Accuracy 0.688 (0.597)	 Cls Loss: 0.63342	 loss_cstency: 58.79038	 loss_hsic: 0.00002
+Epoch: [0][205/1021]	Time 4.175s (2.217s)	Speed 3.8 samples/s	Data 3.175s (1.089s)	Loss 384.51105 (451.01299)	Accuracy 0.812 (0.601)	 Cls Loss: 0.58124	 loss_cstency: 63.59758	 loss_hsic: 0.00001
+Epoch: [0][210/1021]	Time 1.803s (2.205s)	Speed 8.9 samples/s	Data 0.435s (1.072s)	Loss 365.86517 (449.21536)	Accuracy 0.750 (0.606)	 Cls Loss: 0.55487	 loss_cstency: 53.08485	 loss_hsic: 0.00001
+Loading val dataloader successfully! -- 13.234591960906982
+Loading Train dataloader successfully! -- 48.94499897956848
+Loading Test dataloader successfully! -- 11.193422079086304
+Starting training process...
+Epoch: [0][0/1021]	Time 28.787s (28.787s)	Speed 0.6 samples/s	Data 19.582s (19.582s)	Loss 711.61279 (711.61279)	Accuracy 0.562 (0.562)	 Cls Loss: 0.69355	 loss_cstency: 283.86119	 loss_hsic: 0.00002
+Epoch: [0][5/1021]	Time 1.997s (6.525s)	Speed 8.0 samples/s	Data 0.724s (3.678s)	Loss 692.99274 (700.90836)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69296	 loss_cstency: 272.90561	 loss_hsic: 0.00002
+Epoch: [0][10/1021]	Time 2.039s (4.183s)	Speed 7.8 samples/s	Data 0.550s (2.118s)	Loss 654.96606 (698.55858)	Accuracy 0.438 (0.506)	 Cls Loss: 0.69271	 loss_cstency: 251.47965	 loss_hsic: 0.00002
+Epoch: [0][15/1021]	Time 1.221s (3.624s)	Speed 13.1 samples/s	Data 0.162s (1.740s)	Loss 590.13165 (685.79016)	Accuracy 0.500 (0.504)	 Cls Loss: 0.69476	 loss_cstency: 203.72314	 loss_hsic: 0.00002
+Epoch: [0][20/1021]	Time 2.130s (3.123s)	Speed 7.5 samples/s	Data 0.344s (1.381s)	Loss 762.54846 (677.79585)	Accuracy 0.562 (0.497)	 Cls Loss: 0.69146	 loss_cstency: 194.48110	 loss_hsic: 0.00002
+Epoch: [0][25/1021]	Time 1.518s (3.041s)	Speed 10.5 samples/s	Data 0.267s (1.427s)	Loss 522.95081 (658.49647)	Accuracy 0.438 (0.498)	 Cls Loss: 0.69321	 loss_cstency: 167.41187	 loss_hsic: 0.00001
+Epoch: [0][30/1021]	Time 0.963s (3.006s)	Speed 16.6 samples/s	Data 0.096s (1.434s)	Loss 514.59167 (637.40414)	Accuracy 0.625 (0.502)	 Cls Loss: 0.69013	 loss_cstency: 156.83901	 loss_hsic: 0.00002
+Epoch: [0][35/1021]	Time 5.045s (2.955s)	Speed 3.2 samples/s	Data 3.853s (1.382s)	Loss 559.63403 (621.81274)	Accuracy 0.500 (0.502)	 Cls Loss: 0.69221	 loss_cstency: 165.87930	 loss_hsic: 0.00002
+Epoch: [0][40/1021]	Time 1.879s (2.782s)	Speed 8.5 samples/s	Data 0.433s (1.250s)	Loss 544.59814 (609.06844)	Accuracy 0.375 (0.508)	 Cls Loss: 0.68900	 loss_cstency: 143.76923	 loss_hsic: 0.00002
+Epoch: [0][45/1021]	Time 1.890s (2.741s)	Speed 8.5 samples/s	Data 0.299s (1.239s)	Loss 483.84995 (596.50524)	Accuracy 0.438 (0.508)	 Cls Loss: 0.69561	 loss_cstency: 128.11943	 loss_hsic: 0.00002
+Epoch: [0][50/1021]	Time 1.726s (2.771s)	Speed 9.3 samples/s	Data 0.268s (1.231s)	Loss 464.46954 (585.58421)	Accuracy 0.500 (0.507)	 Cls Loss: 0.69280	 loss_cstency: 119.73074	 loss_hsic: 0.00001
+Epoch: [0][55/1021]	Time 1.601s (2.649s)	Speed 10.0 samples/s	Data 0.335s (1.145s)	Loss 475.19485 (575.14413)	Accuracy 0.688 (0.515)	 Cls Loss: 0.68702	 loss_cstency: 138.10783	 loss_hsic: 0.00003
+Epoch: [0][60/1021]	Time 1.551s (2.623s)	Speed 10.3 samples/s	Data 0.366s (1.126s)	Loss 478.72830 (569.12151)	Accuracy 0.375 (0.514)	 Cls Loss: 0.69344	 loss_cstency: 111.79485	 loss_hsic: 0.00003
+Epoch: [0][65/1021]	Time 2.165s (2.604s)	Speed 7.4 samples/s	Data 0.564s (1.102s)	Loss 447.28088 (561.04296)	Accuracy 0.500 (0.517)	 Cls Loss: 0.68976	 loss_cstency: 105.23269	 loss_hsic: 0.00002
+Epoch: [0][70/1021]	Time 3.366s (2.553s)	Speed 4.8 samples/s	Data 2.116s (1.071s)	Loss 431.74728 (553.93201)	Accuracy 0.688 (0.517)	 Cls Loss: 0.67882	 loss_cstency: 101.62983	 loss_hsic: 0.00002
+Epoch: [0][75/1021]	Time 1.442s (2.521s)	Speed 11.1 samples/s	Data 0.259s (1.044s)	Loss 470.18182 (547.68592)	Accuracy 0.625 (0.525)	 Cls Loss: 0.68447	 loss_cstency: 101.38691	 loss_hsic: 0.00001
+Epoch: [0][80/1021]	Time 1.334s (2.523s)	Speed 12.0 samples/s	Data 0.224s (1.057s)	Loss 422.52988 (541.08887)	Accuracy 0.562 (0.529)	 Cls Loss: 0.68107	 loss_cstency: 95.35826	 loss_hsic: 0.00004
+Epoch: [0][85/1021]	Time 6.651s (2.523s)	Speed 2.4 samples/s	Data 5.388s (1.074s)	Loss 405.59210 (533.57951)	Accuracy 0.500 (0.533)	 Cls Loss: 0.67571	 loss_cstency: 87.39755	 loss_hsic: 0.00001
+Epoch: [0][90/1021]	Time 1.316s (2.459s)	Speed 12.2 samples/s	Data 0.301s (1.032s)	Loss 393.54535 (527.28222)	Accuracy 0.625 (0.541)	 Cls Loss: 0.66966	 loss_cstency: 94.43316	 loss_hsic: 0.00002
+Epoch: [0][95/1021]	Time 1.655s (2.461s)	Speed 9.7 samples/s	Data 0.336s (1.048s)	Loss 421.15976 (522.06101)	Accuracy 0.625 (0.542)	 Cls Loss: 0.67328	 loss_cstency: 83.66149	 loss_hsic: 0.00000
+Epoch: [0][100/1021]	Time 1.454s (2.462s)	Speed 11.0 samples/s	Data 0.254s (1.059s)	Loss 390.57022 (517.57586)	Accuracy 0.625 (0.546)	 Cls Loss: 0.68658	 loss_cstency: 80.37281	 loss_hsic: 0.00002
+Epoch: [0][105/1021]	Time 2.719s (2.422s)	Speed 5.9 samples/s	Data 0.490s (1.022s)	Loss 468.18515 (513.85171)	Accuracy 0.562 (0.548)	 Cls Loss: 0.67894	 loss_cstency: 81.00812	 loss_hsic: 0.00000
+Epoch: [0][110/1021]	Time 1.312s (2.414s)	Speed 12.2 samples/s	Data 0.212s (1.023s)	Loss 456.12662 (509.22708)	Accuracy 0.562 (0.550)	 Cls Loss: 0.67816	 loss_cstency: 78.26412	 loss_hsic: 0.00004
+Epoch: [0][115/1021]	Time 1.441s (2.417s)	Speed 11.1 samples/s	Data 0.303s (1.027s)	Loss 413.36880 (505.11581)	Accuracy 0.750 (0.554)	 Cls Loss: 0.66783	 loss_cstency: 75.02857	 loss_hsic: 0.00004
+Epoch: [0][120/1021]	Time 4.196s (2.417s)	Speed 3.8 samples/s	Data 2.968s (1.022s)	Loss 445.30136 (502.18023)	Accuracy 0.625 (0.557)	 Cls Loss: 0.66619	 loss_cstency: 74.17866	 loss_hsic: 0.00002
+Epoch: [0][125/1021]	Time 2.670s (2.388s)	Speed 6.0 samples/s	Data 0.544s (0.996s)	Loss 397.98853 (498.31243)	Accuracy 0.562 (0.562)	 Cls Loss: 0.66682	 loss_cstency: 73.81332	 loss_hsic: 0.00001
+Epoch: [0][130/1021]	Time 1.529s (2.382s)	Speed 10.5 samples/s	Data 0.394s (0.996s)	Loss 403.92850 (495.09019)	Accuracy 0.625 (0.563)	 Cls Loss: 0.67358	 loss_cstency: 72.90071	 loss_hsic: 0.00000
+Epoch: [0][135/1021]	Time 1.452s (2.384s)	Speed 11.0 samples/s	Data 0.397s (0.996s)	Loss 402.97775 (491.37912)	Accuracy 0.750 (0.567)	 Cls Loss: 0.64642	 loss_cstency: 70.12548	 loss_hsic: 0.00003
+Epoch: [0][140/1021]	Time 1.763s (2.363s)	Speed 9.1 samples/s	Data 0.455s (0.975s)	Loss 422.00388 (488.13296)	Accuracy 0.625 (0.569)	 Cls Loss: 0.65588	 loss_cstency: 69.02816	 loss_hsic: 0.00002
+Epoch: [0][145/1021]	Time 2.416s (2.353s)	Speed 6.6 samples/s	Data 0.570s (0.966s)	Loss 368.11319 (484.57586)	Accuracy 0.750 (0.572)	 Cls Loss: 0.60882	 loss_cstency: 65.59644	 loss_hsic: 0.00002
+Epoch: [0][150/1021]	Time 1.519s (2.343s)	Speed 10.5 samples/s	Data 0.353s (0.957s)	Loss 391.09415 (480.90614)	Accuracy 0.500 (0.573)	 Cls Loss: 0.69241	 loss_cstency: 67.54999	 loss_hsic: 0.00002
+Epoch: [0][155/1021]	Time 4.273s (2.341s)	Speed 3.7 samples/s	Data 3.073s (0.954s)	Loss 386.38000 (478.33158)	Accuracy 0.625 (0.576)	 Cls Loss: 0.62574	 loss_cstency: 63.84295	 loss_hsic: 0.00001
+Epoch: [0][160/1021]	Time 2.371s (2.328s)	Speed 6.7 samples/s	Data 0.634s (0.939s)	Loss 413.86414 (475.45517)	Accuracy 0.562 (0.580)	 Cls Loss: 0.64996	 loss_cstency: 70.59008	 loss_hsic: 0.00001
+Epoch: [0][165/1021]	Time 1.615s (2.319s)	Speed 9.9 samples/s	Data 0.301s (0.933s)	Loss 377.89120 (472.79710)	Accuracy 0.688 (0.583)	 Cls Loss: 0.63463	 loss_cstency: 62.31070	 loss_hsic: 0.00002
+Epoch: [0][170/1021]	Time 1.473s (2.317s)	Speed 10.9 samples/s	Data 0.291s (0.930s)	Loss 373.64951 (470.00054)	Accuracy 0.688 (0.588)	 Cls Loss: 0.63405	 loss_cstency: 63.54658	 loss_hsic: 0.00002
+Epoch: [0][175/1021]	Time 1.564s (2.307s)	Speed 10.2 samples/s	Data 0.305s (0.917s)	Loss 413.63153 (467.73248)	Accuracy 0.688 (0.591)	 Cls Loss: 0.65384	 loss_cstency: 64.16605	 loss_hsic: 0.00003
+Epoch: [0][180/1021]	Time 1.494s (2.325s)	Speed 10.7 samples/s	Data 0.341s (0.930s)	Loss 380.22607 (465.09572)	Accuracy 0.750 (0.595)	 Cls Loss: 0.54694	 loss_cstency: 65.08215	 loss_hsic: 0.00001
+Epoch: [0][185/1021]	Time 2.659s (2.323s)	Speed 6.0 samples/s	Data 0.578s (0.926s)	Loss 365.85843 (462.37527)	Accuracy 0.625 (0.597)	 Cls Loss: 0.58695	 loss_cstency: 60.82659	 loss_hsic: 0.00003
+Epoch: [0][190/1021]	Time 3.616s (2.315s)	Speed 4.4 samples/s	Data 2.344s (0.921s)	Loss 379.23862 (460.44361)	Accuracy 0.688 (0.599)	 Cls Loss: 0.55235	 loss_cstency: 61.38530	 loss_hsic: 0.00003
+Epoch: [0][195/1021]	Time 1.475s (2.303s)	Speed 10.8 samples/s	Data 0.306s (0.909s)	Loss 403.62347 (458.50111)	Accuracy 0.562 (0.600)	 Cls Loss: 0.63908	 loss_cstency: 64.15489	 loss_hsic: 0.00003
+Epoch: [0][200/1021]	Time 1.908s (2.306s)	Speed 8.4 samples/s	Data 0.694s (0.911s)	Loss 367.76587 (456.39727)	Accuracy 0.812 (0.604)	 Cls Loss: 0.52794	 loss_cstency: 63.30478	 loss_hsic: 0.00003
+Epoch: [0][205/1021]	Time 1.862s (2.296s)	Speed 8.6 samples/s	Data 0.412s (0.903s)	Loss 377.96402 (454.56164)	Accuracy 0.688 (0.606)	 Cls Loss: 0.55256	 loss_cstency: 56.10357	 loss_hsic: 0.00002
+Epoch: [0][210/1021]	Time 1.605s (2.288s)	Speed 10.0 samples/s	Data 0.349s (0.893s)	Loss 364.47141 (452.84224)	Accuracy 0.562 (0.610)	 Cls Loss: 0.56123	 loss_cstency: 53.16892	 loss_hsic: 0.00003
+Epoch: [0][215/1021]	Time 1.892s (2.283s)	Speed 8.5 samples/s	Data 0.662s (0.885s)	Loss 357.30920 (451.17515)	Accuracy 0.938 (0.614)	 Cls Loss: 0.52040	 loss_cstency: 54.11754	 loss_hsic: 0.00003
+Epoch: [0][220/1021]	Time 2.029s (2.274s)	Speed 7.9 samples/s	Data 0.273s (0.875s)	Loss 365.79971 (448.97713)	Accuracy 0.562 (0.617)	 Cls Loss: 0.57285	 loss_cstency: 67.09651	 loss_hsic: 0.00003
+Epoch: [0][225/1021]	Time 2.117s (2.269s)	Speed 7.6 samples/s	Data 0.974s (0.870s)	Loss 353.52133 (446.91801)	Accuracy 0.688 (0.621)	 Cls Loss: 0.49157	 loss_cstency: 63.24709	 loss_hsic: 0.00003
+Epoch: [0][230/1021]	Time 1.708s (2.273s)	Speed 9.4 samples/s	Data 0.422s (0.874s)	Loss 317.68185 (444.77977)	Accuracy 0.938 (0.626)	 Cls Loss: 0.40880	 loss_cstency: 52.88565	 loss_hsic: 0.00003
+Epoch: [0][235/1021]	Time 2.641s (2.269s)	Speed 6.1 samples/s	Data 0.674s (0.867s)	Loss 325.66092 (442.69419)	Accuracy 0.688 (0.627)	 Cls Loss: 0.56765	 loss_cstency: 80.76750	 loss_hsic: 0.00003
+Epoch: [0][240/1021]	Time 2.239s (2.272s)	Speed 7.1 samples/s	Data 0.482s (0.870s)	Loss 349.64279 (441.12489)	Accuracy 0.688 (0.631)	 Cls Loss: 0.60650	 loss_cstency: 52.15577	 loss_hsic: 0.00002
+Epoch: [0][245/1021]	Time 1.596s (2.260s)	Speed 10.0 samples/s	Data 0.330s (0.861s)	Loss 352.56113 (439.69205)	Accuracy 0.938 (0.634)	 Cls Loss: 0.36469	 loss_cstency: 49.58727	 loss_hsic: 0.00003
+Epoch: [0][250/1021]	Time 1.661s (2.262s)	Speed 9.6 samples/s	Data 0.382s (0.860s)	Loss 351.43668 (437.81127)	Accuracy 0.812 (0.638)	 Cls Loss: 0.45346	 loss_cstency: 49.97950	 loss_hsic: 0.00003
+Epoch: [0][255/1021]	Time 2.774s (2.259s)	Speed 5.8 samples/s	Data 0.615s (0.854s)	Loss 366.54465 (436.57428)	Accuracy 0.812 (0.641)	 Cls Loss: 0.51167	 loss_cstency: 50.38965	 loss_hsic: 0.00002
+Epoch: [0][260/1021]	Time 2.370s (2.252s)	Speed 6.8 samples/s	Data 1.203s (0.849s)	Loss 377.54367 (435.34196)	Accuracy 0.812 (0.645)	 Cls Loss: 0.55051	 loss_cstency: 51.89894	 loss_hsic: 0.00002
+Epoch: [0][265/1021]	Time 1.577s (2.246s)	Speed 10.1 samples/s	Data 0.356s (0.841s)	Loss 323.60477 (433.51260)	Accuracy 0.875 (0.649)	 Cls Loss: 0.38832	 loss_cstency: 48.16119	 loss_hsic: 0.00003
+Epoch: [0][270/1021]	Time 1.748s (2.251s)	Speed 9.2 samples/s	Data 0.374s (0.842s)	Loss 399.28201 (432.55401)	Accuracy 0.688 (0.652)	 Cls Loss: 0.49155	 loss_cstency: 61.05659	 loss_hsic: 0.00003
+Epoch: [0][275/1021]	Time 2.399s (2.245s)	Speed 6.7 samples/s	Data 0.493s (0.836s)	Loss 358.91812 (431.19183)	Accuracy 0.812 (0.654)	 Cls Loss: 0.37665	 loss_cstency: 51.10648	 loss_hsic: 0.00002
+Epoch: [0][280/1021]	Time 1.672s (2.240s)	Speed 9.6 samples/s	Data 0.272s (0.830s)	Loss 357.38950 (429.78678)	Accuracy 0.875 (0.658)	 Cls Loss: 0.36279	 loss_cstency: 45.69267	 loss_hsic: 0.00002
+Epoch: [0][285/1021]	Time 3.725s (2.246s)	Speed 4.3 samples/s	Data 2.448s (0.835s)	Loss 339.66330 (428.35469)	Accuracy 0.812 (0.662)	 Cls Loss: 0.39214	 loss_cstency: 49.50336	 loss_hsic: 0.00002
+Epoch: [0][290/1021]	Time 2.281s (2.239s)	Speed 7.0 samples/s	Data 0.547s (0.829s)	Loss 488.46906 (427.61663)	Accuracy 0.875 (0.666)	 Cls Loss: 0.37199	 loss_cstency: 62.96277	 loss_hsic: 0.00001
+Epoch: [0][295/1021]	Time 1.462s (2.232s)	Speed 10.9 samples/s	Data 0.370s (0.825s)	Loss 334.66135 (426.46898)	Accuracy 0.938 (0.669)	 Cls Loss: 0.27992	 loss_cstency: 42.24557	 loss_hsic: 0.00003
+Epoch: [0][300/1021]	Time 1.683s (2.235s)	Speed 9.5 samples/s	Data 0.408s (0.826s)	Loss 364.84793 (425.23676)	Accuracy 0.812 (0.673)	 Cls Loss: 0.42152	 loss_cstency: 53.28544	 loss_hsic: 0.00003
+Epoch: [0][305/1021]	Time 1.938s (2.233s)	Speed 8.3 samples/s	Data 0.441s (0.820s)	Loss 427.34134 (424.11308)	Accuracy 0.750 (0.675)	 Cls Loss: 0.43801	 loss_cstency: 44.38497	 loss_hsic: 0.00002
+Epoch: [0][310/1021]	Time 1.700s (2.249s)	Speed 9.4 samples/s	Data 0.389s (0.830s)	Loss 360.71426 (422.64902)	Accuracy 0.688 (0.677)	 Cls Loss: 0.46997	 loss_cstency: 49.06098	 loss_hsic: 0.00002
+Epoch: [0][315/1021]	Time 2.392s (2.250s)	Speed 6.7 samples/s	Data 1.178s (0.827s)	Loss 395.93622 (421.62860)	Accuracy 1.000 (0.680)	 Cls Loss: 0.29689	 loss_cstency: 59.90482	 loss_hsic: 0.00002
+Epoch: [0][320/1021]	Time 1.518s (2.243s)	Speed 10.5 samples/s	Data 0.293s (0.820s)	Loss 325.11984 (420.64022)	Accuracy 0.938 (0.681)	 Cls Loss: 0.29175	 loss_cstency: 44.31483	 loss_hsic: 0.00003
+Epoch: [0][325/1021]	Time 1.475s (2.245s)	Speed 10.8 samples/s	Data 0.363s (0.821s)	Loss 332.21652 (419.48445)	Accuracy 0.875 (0.683)	 Cls Loss: 0.34101	 loss_cstency: 47.74362	 loss_hsic: 0.00002
+Epoch: [0][330/1021]	Time 1.636s (2.246s)	Speed 9.8 samples/s	Data 0.322s (0.821s)	Loss 335.41373 (418.07031)	Accuracy 0.938 (0.686)	 Cls Loss: 0.29056	 loss_cstency: 49.78443	 loss_hsic: 0.00002
+Epoch: [0][335/1021]	Time 2.795s (2.243s)	Speed 5.7 samples/s	Data 0.678s (0.815s)	Loss 331.33395 (416.70958)	Accuracy 0.875 (0.689)	 Cls Loss: 0.32651	 loss_cstency: 45.06471	 loss_hsic: 0.00002
+Epoch: [0][340/1021]	Time 1.947s (2.243s)	Speed 8.2 samples/s	Data 0.280s (0.815s)	Loss 345.06290 (415.35216)	Accuracy 0.812 (0.691)	 Cls Loss: 0.35919	 loss_cstency: 46.73956	 loss_hsic: 0.00002
+Epoch: [0][345/1021]	Time 1.665s (2.247s)	Speed 9.6 samples/s	Data 0.407s (0.817s)	Loss 347.03006 (414.38939)	Accuracy 0.938 (0.693)	 Cls Loss: 0.23365	 loss_cstency: 43.27123	 loss_hsic: 0.00003
+Epoch: [0][350/1021]	Time 2.009s (2.244s)	Speed 8.0 samples/s	Data 0.862s (0.813s)	Loss 409.68356 (413.36208)	Accuracy 0.688 (0.695)	 Cls Loss: 0.54484	 loss_cstency: 69.58901	 loss_hsic: 0.00002
+Epoch: [0][355/1021]	Time 2.770s (2.240s)	Speed 5.8 samples/s	Data 0.713s (0.807s)	Loss 323.64908 (412.19707)	Accuracy 0.812 (0.696)	 Cls Loss: 0.43213	 loss_cstency: 42.73237	 loss_hsic: 0.00002
+Epoch: [0][360/1021]	Time 2.302s (2.243s)	Speed 7.0 samples/s	Data 0.479s (0.810s)	Loss 440.18289 (411.83304)	Accuracy 0.938 (0.698)	 Cls Loss: 0.33717	 loss_cstency: 114.76902	 loss_hsic: 0.00003
+Epoch: [0][365/1021]	Time 1.818s (2.242s)	Speed 8.8 samples/s	Data 0.444s (0.809s)	Loss 313.69016 (410.64143)	Accuracy 0.812 (0.700)	 Cls Loss: 0.33562	 loss_cstency: 39.92833	 loss_hsic: 0.00004
+Epoch: [0][370/1021]	Time 1.736s (2.238s)	Speed 9.2 samples/s	Data 0.427s (0.804s)	Loss 371.69321 (409.55320)	Accuracy 0.938 (0.701)	 Cls Loss: 0.34161	 loss_cstency: 43.24210	 loss_hsic: 0.00003
+Epoch: [0][375/1021]	Time 2.510s (2.238s)	Speed 6.4 samples/s	Data 0.665s (0.802s)	Loss 351.81308 (408.74105)	Accuracy 0.812 (0.704)	 Cls Loss: 0.47512	 loss_cstency: 61.83413	 loss_hsic: 0.00003
+Epoch: [0][380/1021]	Time 1.811s (2.236s)	Speed 8.8 samples/s	Data 0.271s (0.802s)	Loss 305.22952 (407.79064)	Accuracy 0.875 (0.705)	 Cls Loss: 0.34160	 loss_cstency: 41.39132	 loss_hsic: 0.00002
+Epoch: [0][385/1021]	Time 4.356s (2.239s)	Speed 3.7 samples/s	Data 2.979s (0.804s)	Loss 332.96628 (406.77725)	Accuracy 0.812 (0.708)	 Cls Loss: 0.38125	 loss_cstency: 43.07862	 loss_hsic: 0.00002
+Epoch: [0][390/1021]	Time 1.486s (2.234s)	Speed 10.8 samples/s	Data 0.331s (0.799s)	Loss 299.36368 (406.07168)	Accuracy 0.812 (0.709)	 Cls Loss: 0.41639	 loss_cstency: 38.54994	 loss_hsic: 0.00002
+Epoch: [0][395/1021]	Time 2.716s (2.230s)	Speed 5.9 samples/s	Data 0.643s (0.794s)	Loss 351.57297 (405.20799)	Accuracy 0.812 (0.712)	 Cls Loss: 0.45594	 loss_cstency: 42.33447	 loss_hsic: 0.00004
+Epoch: [0][400/1021]	Time 1.632s (2.231s)	Speed 9.8 samples/s	Data 0.428s (0.796s)	Loss 336.51199 (404.37299)	Accuracy 0.812 (0.713)	 Cls Loss: 0.38084	 loss_cstency: 45.45279	 loss_hsic: 0.00002
+Epoch: [0][405/1021]	Time 1.774s (2.229s)	Speed 9.0 samples/s	Data 0.438s (0.792s)	Loss 385.62479 (403.55931)	Accuracy 0.875 (0.716)	 Cls Loss: 0.29825	 loss_cstency: 54.77497	 loss_hsic: 0.00002
+Epoch: [0][410/1021]	Time 1.623s (2.228s)	Speed 9.9 samples/s	Data 0.365s (0.790s)	Loss 321.49088 (402.50898)	Accuracy 0.875 (0.717)	 Cls Loss: 0.32629	 loss_cstency: 41.97754	 loss_hsic: 0.00002
+Epoch: [0][415/1021]	Time 2.845s (2.230s)	Speed 5.6 samples/s	Data 0.725s (0.791s)	Loss 264.82556 (401.51708)	Accuracy 1.000 (0.719)	 Cls Loss: 0.11807	 loss_cstency: 35.68089	 loss_hsic: 0.00003
+Epoch: [0][420/1021]	Time 3.220s (2.228s)	Speed 5.0 samples/s	Data 2.109s (0.791s)	Loss 302.11206 (400.35735)	Accuracy 0.875 (0.721)	 Cls Loss: 0.25544	 loss_cstency: 39.41076	 loss_hsic: 0.00001
+Epoch: [0][425/1021]	Time 1.544s (2.224s)	Speed 10.4 samples/s	Data 0.376s (0.786s)	Loss 285.94797 (399.50220)	Accuracy 0.875 (0.722)	 Cls Loss: 0.34376	 loss_cstency: 43.22496	 loss_hsic: 0.00003
+Epoch: [0][430/1021]	Time 1.857s (2.226s)	Speed 8.6 samples/s	Data 0.512s (0.788s)	Loss 396.11182 (398.85858)	Accuracy 0.875 (0.723)	 Cls Loss: 0.36972	 loss_cstency: 64.96196	 loss_hsic: 0.00003
+Epoch: [0][435/1021]	Time 1.914s (2.231s)	Speed 8.4 samples/s	Data 0.363s (0.789s)	Loss 329.13806 (398.21392)	Accuracy 0.812 (0.725)	 Cls Loss: 0.31804	 loss_cstency: 39.65178	 loss_hsic: 0.00002
+Epoch: [0][440/1021]	Time 1.687s (2.224s)	Speed 9.5 samples/s	Data 0.361s (0.784s)	Loss 364.31882 (397.57698)	Accuracy 0.812 (0.725)	 Cls Loss: 0.39833	 loss_cstency: 45.43587	 loss_hsic: 0.00002
+Epoch: [0][445/1021]	Time 1.667s (2.226s)	Speed 9.6 samples/s	Data 0.422s (0.784s)	Loss 358.68881 (396.75959)	Accuracy 0.812 (0.726)	 Cls Loss: 0.54008	 loss_cstency: 43.72807	 loss_hsic: 0.00002
+Epoch: [0][450/1021]	Time 1.550s (2.227s)	Speed 10.3 samples/s	Data 0.256s (0.785s)	Loss 290.60809 (395.98648)	Accuracy 0.938 (0.727)	 Cls Loss: 0.26437	 loss_cstency: 38.94239	 loss_hsic: 0.00003
+Epoch: [0][455/1021]	Time 4.226s (2.226s)	Speed 3.8 samples/s	Data 2.086s (0.784s)	Loss 397.83313 (395.59901)	Accuracy 0.812 (0.728)	 Cls Loss: 0.39759	 loss_cstency: 41.90990	 loss_hsic: 0.00003
+Epoch: [0][460/1021]	Time 1.640s (2.222s)	Speed 9.8 samples/s	Data 0.377s (0.780s)	Loss 436.63986 (394.99106)	Accuracy 0.875 (0.730)	 Cls Loss: 0.28021	 loss_cstency: 46.90087	 loss_hsic: 0.00003
+Epoch: [0][465/1021]	Time 1.733s (2.221s)	Speed 9.2 samples/s	Data 0.351s (0.778s)	Loss 331.10452 (394.44217)	Accuracy 0.938 (0.731)	 Cls Loss: 0.37321	 loss_cstency: 44.01957	 loss_hsic: 0.00002
+Epoch: [0][470/1021]	Time 2.151s (2.221s)	Speed 7.4 samples/s	Data 0.631s (0.776s)	Loss 319.46503 (393.61620)	Accuracy 1.000 (0.733)	 Cls Loss: 0.20566	 loss_cstency: 38.44459	 loss_hsic: 0.00003
+Epoch: [0][475/1021]	Time 1.702s (2.215s)	Speed 9.4 samples/s	Data 0.513s (0.772s)	Loss 266.73795 (392.72433)	Accuracy 0.938 (0.735)	 Cls Loss: 0.21358	 loss_cstency: 34.49889	 loss_hsic: 0.00003
+Epoch: [0][480/1021]	Time 1.632s (2.215s)	Speed 9.8 samples/s	Data 0.372s (0.771s)	Loss 318.49985 (391.90240)	Accuracy 0.875 (0.737)	 Cls Loss: 0.19193	 loss_cstency: 34.10000	 loss_hsic: 0.00004
+Epoch: [0][485/1021]	Time 2.607s (2.216s)	Speed 6.1 samples/s	Data 1.345s (0.770s)	Loss 305.61057 (391.04368)	Accuracy 0.938 (0.739)	 Cls Loss: 0.19539	 loss_cstency: 38.39566	 loss_hsic: 0.00003
+Epoch: [0][490/1021]	Time 2.672s (2.215s)	Speed 6.0 samples/s	Data 0.509s (0.768s)	Loss 322.61636 (390.27987)	Accuracy 0.875 (0.740)	 Cls Loss: 0.33397	 loss_cstency: 52.62781	 loss_hsic: 0.00003
+Epoch: [0][495/1021]	Time 3.148s (2.214s)	Speed 5.1 samples/s	Data 1.957s (0.768s)	Loss 327.19644 (389.62558)	Accuracy 1.000 (0.742)	 Cls Loss: 0.18216	 loss_cstency: 39.59600	 loss_hsic: 0.00002
+Epoch: [0][500/1021]	Time 1.790s (2.213s)	Speed 8.9 samples/s	Data 0.440s (0.766s)	Loss 346.66101 (389.01617)	Accuracy 0.875 (0.744)	 Cls Loss: 0.27867	 loss_cstency: 40.59671	 loss_hsic: 0.00001
+Epoch: [0][505/1021]	Time 1.763s (2.216s)	Speed 9.1 samples/s	Data 0.368s (0.768s)	Loss 324.09238 (388.56121)	Accuracy 0.750 (0.745)	 Cls Loss: 0.40059	 loss_cstency: 41.36620	 loss_hsic: 0.00002
+Epoch: [0][510/1021]	Time 2.982s (2.219s)	Speed 5.4 samples/s	Data 0.771s (0.768s)	Loss 311.69870 (388.05352)	Accuracy 0.938 (0.747)	 Cls Loss: 0.18959	 loss_cstency: 40.52405	 loss_hsic: 0.00003
+Epoch: [0][515/1021]	Time 1.919s (2.214s)	Speed 8.3 samples/s	Data 0.446s (0.765s)	Loss 333.44009 (387.75948)	Accuracy 0.875 (0.748)	 Cls Loss: 0.21613	 loss_cstency: 55.43145	 loss_hsic: 0.00003
+Epoch: [0][520/1021]	Time 1.585s (2.212s)	Speed 10.1 samples/s	Data 0.363s (0.762s)	Loss 382.51578 (387.41413)	Accuracy 0.875 (0.749)	 Cls Loss: 0.35114	 loss_cstency: 51.55213	 loss_hsic: 0.00002
+Epoch: [0][525/1021]	Time 1.658s (2.212s)	Speed 9.6 samples/s	Data 0.529s (0.762s)	Loss 334.63736 (386.89529)	Accuracy 0.938 (0.750)	 Cls Loss: 0.28082	 loss_cstency: 43.74427	 loss_hsic: 0.00003
+Epoch: [0][530/1021]	Time 3.200s (2.211s)	Speed 5.0 samples/s	Data 1.409s (0.760s)	Loss 299.37613 (386.39938)	Accuracy 0.812 (0.751)	 Cls Loss: 0.26333	 loss_cstency: 41.10634	 loss_hsic: 0.00002
+Epoch: [0][535/1021]	Time 1.606s (2.208s)	Speed 10.0 samples/s	Data 0.271s (0.757s)	Loss 321.74905 (385.71784)	Accuracy 0.938 (0.753)	 Cls Loss: 0.20515	 loss_cstency: 40.48602	 loss_hsic: 0.00002
+Epoch: [0][540/1021]	Time 1.843s (2.209s)	Speed 8.7 samples/s	Data 0.546s (0.757s)	Loss 288.91873 (385.10131)	Accuracy 0.938 (0.754)	 Cls Loss: 0.24578	 loss_cstency: 38.89182	 loss_hsic: 0.00002
+Epoch: [0][545/1021]	Time 2.277s (2.210s)	Speed 7.0 samples/s	Data 0.512s (0.758s)	Loss 291.53333 (384.45657)	Accuracy 1.000 (0.755)	 Cls Loss: 0.12518	 loss_cstency: 34.60002	 loss_hsic: 0.00003
+Epoch: [0][550/1021]	Time 1.650s (2.206s)	Speed 9.7 samples/s	Data 0.339s (0.755s)	Loss 325.60416 (383.79310)	Accuracy 0.750 (0.757)	 Cls Loss: 0.35153	 loss_cstency: 39.50389	 loss_hsic: 0.00002
+Epoch: [0][555/1021]	Time 1.563s (2.206s)	Speed 10.2 samples/s	Data 0.362s (0.756s)	Loss 306.46417 (383.44331)	Accuracy 0.812 (0.757)	 Cls Loss: 0.41204	 loss_cstency: 40.73224	 loss_hsic: 0.00003
+Epoch: [0][560/1021]	Time 2.712s (2.213s)	Speed 5.9 samples/s	Data 1.411s (0.760s)	Loss 285.08093 (382.94902)	Accuracy 0.938 (0.759)	 Cls Loss: 0.17918	 loss_cstency: 37.15424	 loss_hsic: 0.00003
+Epoch: [0][565/1021]	Time 2.628s (2.209s)	Speed 6.1 samples/s	Data 0.374s (0.757s)	Loss 337.85870 (382.59608)	Accuracy 0.875 (0.759)	 Cls Loss: 0.26535	 loss_cstency: 42.46995	 loss_hsic: 0.00002
+Epoch: [0][570/1021]	Time 1.586s (2.211s)	Speed 10.1 samples/s	Data 0.393s (0.757s)	Loss 312.79105 (382.05617)	Accuracy 0.875 (0.761)	 Cls Loss: 0.33487	 loss_cstency: 38.33158	 loss_hsic: 0.00004
+Epoch: [0][575/1021]	Time 1.651s (2.213s)	Speed 9.7 samples/s	Data 0.408s (0.758s)	Loss 302.65353 (381.58239)	Accuracy 0.938 (0.762)	 Cls Loss: 0.14091	 loss_cstency: 57.41582	 loss_hsic: 0.00002
+Epoch: [0][580/1021]	Time 1.826s (2.212s)	Speed 8.8 samples/s	Data 0.434s (0.755s)	Loss 290.70193 (381.00783)	Accuracy 0.812 (0.763)	 Cls Loss: 0.26129	 loss_cstency: 39.08678	 loss_hsic: 0.00003
+Epoch: [0][585/1021]	Time 2.865s (2.212s)	Speed 5.6 samples/s	Data 0.665s (0.755s)	Loss 314.58167 (380.30613)	Accuracy 0.875 (0.764)	 Cls Loss: 0.36285	 loss_cstency: 40.27473	 loss_hsic: 0.00002
+Epoch: [0][590/1021]	Time 1.434s (2.211s)	Speed 11.2 samples/s	Data 0.332s (0.755s)	Loss 280.59717 (379.72710)	Accuracy 0.938 (0.765)	 Cls Loss: 0.18495	 loss_cstency: 34.97004	 loss_hsic: 0.00002
+Epoch: [0][595/1021]	Time 2.210s (2.210s)	Speed 7.2 samples/s	Data 1.074s (0.754s)	Loss 287.26450 (379.29652)	Accuracy 0.875 (0.766)	 Cls Loss: 0.22845	 loss_cstency: 34.09842	 loss_hsic: 0.00003
+Epoch: [0][600/1021]	Time 1.691s (2.208s)	Speed 9.5 samples/s	Data 0.371s (0.751s)	Loss 295.70337 (378.65316)	Accuracy 1.000 (0.767)	 Cls Loss: 0.15936	 loss_cstency: 42.55644	 loss_hsic: 0.00002
+Epoch: [0][605/1021]	Time 2.613s (2.210s)	Speed 6.1 samples/s	Data 0.455s (0.752s)	Loss 282.98221 (378.05623)	Accuracy 0.812 (0.768)	 Cls Loss: 0.29647	 loss_cstency: 33.06501	 loss_hsic: 0.00003
+Epoch: [0][610/1021]	Time 1.580s (2.208s)	Speed 10.1 samples/s	Data 0.356s (0.750s)	Loss 340.39627 (377.66940)	Accuracy 0.812 (0.769)	 Cls Loss: 0.36073	 loss_cstency: 34.89172	 loss_hsic: 0.00003
+Epoch: [0][615/1021]	Time 1.724s (2.207s)	Speed 9.3 samples/s	Data 0.443s (0.749s)	Loss 283.36652 (377.13941)	Accuracy 0.875 (0.770)	 Cls Loss: 0.20610	 loss_cstency: 35.39132	 loss_hsic: 0.00003
+Epoch: [0][620/1021]	Time 1.763s (2.209s)	Speed 9.1 samples/s	Data 0.436s (0.750s)	Loss 287.04471 (376.58154)	Accuracy 0.750 (0.770)	 Cls Loss: 0.37419	 loss_cstency: 38.25829	 loss_hsic: 0.00002
+Epoch: [0][625/1021]	Time 3.980s (2.212s)	Speed 4.0 samples/s	Data 1.629s (0.751s)	Loss 291.39273 (375.96001)	Accuracy 0.938 (0.771)	 Cls Loss: 0.19676	 loss_cstency: 34.13066	 loss_hsic: 0.00003
+Epoch: [0][630/1021]	Time 2.811s (2.211s)	Speed 5.7 samples/s	Data 1.117s (0.750s)	Loss 414.45142 (375.83852)	Accuracy 0.938 (0.773)	 Cls Loss: 0.20836	 loss_cstency: 108.36001	 loss_hsic: 0.00003
+Epoch: [0][635/1021]	Time 1.855s (2.211s)	Speed 8.6 samples/s	Data 0.454s (0.748s)	Loss 330.64294 (375.38509)	Accuracy 0.875 (0.773)	 Cls Loss: 0.29185	 loss_cstency: 41.07141	 loss_hsic: 0.00001
+Epoch: [0][640/1021]	Time 1.642s (2.213s)	Speed 9.7 samples/s	Data 0.235s (0.750s)	Loss 330.06711 (374.94640)	Accuracy 0.875 (0.774)	 Cls Loss: 0.28666	 loss_cstency: 41.36620	 loss_hsic: 0.00001
+Epoch: [0][645/1021]	Time 1.539s (2.213s)	Speed 10.4 samples/s	Data 0.360s (0.749s)	Loss 284.78726 (374.48835)	Accuracy 0.938 (0.775)	 Cls Loss: 0.23951	 loss_cstency: 33.05156	 loss_hsic: 0.00003
+Epoch: [0][650/1021]	Time 1.835s (2.210s)	Speed 8.7 samples/s	Data 0.387s (0.746s)	Loss 295.99893 (374.05376)	Accuracy 0.938 (0.776)	 Cls Loss: 0.18267	 loss_cstency: 56.24829	 loss_hsic: 0.00003
+Epoch: [0][655/1021]	Time 1.930s (2.212s)	Speed 8.3 samples/s	Data 0.430s (0.746s)	Loss 346.14423 (373.60699)	Accuracy 0.750 (0.777)	 Cls Loss: 0.42362	 loss_cstency: 41.86469	 loss_hsic: 0.00001
+Epoch: [0][660/1021]	Time 1.986s (2.213s)	Speed 8.1 samples/s	Data 0.550s (0.745s)	Loss 269.51343 (373.19263)	Accuracy 0.812 (0.778)	 Cls Loss: 0.29413	 loss_cstency: 38.12390	 loss_hsic: 0.00003
+Epoch: [0][665/1021]	Time 3.198s (2.215s)	Speed 5.0 samples/s	Data 1.629s (0.745s)	Loss 314.61649 (372.72074)	Accuracy 0.875 (0.779)	 Cls Loss: 0.30062	 loss_cstency: 39.91584	 loss_hsic: 0.00003
+Epoch: [0][670/1021]	Time 2.424s (2.218s)	Speed 6.6 samples/s	Data 0.736s (0.746s)	Loss 322.09915 (372.20396)	Accuracy 0.812 (0.780)	 Cls Loss: 0.26942	 loss_cstency: 35.68883	 loss_hsic: 0.00002
+Epoch: [0][675/1021]	Time 2.376s (2.217s)	Speed 6.7 samples/s	Data 0.332s (0.745s)	Loss 314.52505 (371.83048)	Accuracy 0.938 (0.780)	 Cls Loss: 0.26152	 loss_cstency: 38.30906	 loss_hsic: 0.00002
+Epoch: [0][680/1021]	Time 1.755s (2.218s)	Speed 9.1 samples/s	Data 0.275s (0.743s)	Loss 348.52496 (371.53339)	Accuracy 0.938 (0.781)	 Cls Loss: 0.21960	 loss_cstency: 40.70667	 loss_hsic: 0.00001
+Epoch: [0][685/1021]	Time 1.732s (2.217s)	Speed 9.2 samples/s	Data 0.369s (0.742s)	Loss 266.57901 (370.93339)	Accuracy 0.938 (0.783)	 Cls Loss: 0.14805	 loss_cstency: 36.65039	 loss_hsic: 0.00002
+Epoch: [0][690/1021]	Time 2.336s (2.217s)	Speed 6.8 samples/s	Data 0.533s (0.742s)	Loss 276.62549 (370.41590)	Accuracy 0.938 (0.784)	 Cls Loss: 0.23946	 loss_cstency: 39.76850	 loss_hsic: 0.00002
+Epoch: [0][695/1021]	Time 4.786s (2.218s)	Speed 3.3 samples/s	Data 2.943s (0.743s)	Loss 244.50562 (369.88077)	Accuracy 1.000 (0.785)	 Cls Loss: 0.11074	 loss_cstency: 33.92621	 loss_hsic: 0.00003
+Epoch: [0][700/1021]	Time 1.498s (2.215s)	Speed 10.7 samples/s	Data 0.353s (0.741s)	Loss 308.99554 (369.45072)	Accuracy 0.812 (0.786)	 Cls Loss: 0.33366	 loss_cstency: 40.04000	 loss_hsic: 0.00001
+Epoch: [0][705/1021]	Time 1.743s (2.218s)	Speed 9.2 samples/s	Data 0.424s (0.744s)	Loss 326.95609 (369.00646)	Accuracy 0.938 (0.787)	 Cls Loss: 0.23562	 loss_cstency: 46.33775	 loss_hsic: 0.00002
+Epoch: [0][710/1021]	Time 1.894s (2.219s)	Speed 8.4 samples/s	Data 0.440s (0.744s)	Loss 317.44058 (368.53727)	Accuracy 0.938 (0.787)	 Cls Loss: 0.18925	 loss_cstency: 44.20387	 loss_hsic: 0.00003
+Epoch: [0][715/1021]	Time 1.491s (2.214s)	Speed 10.7 samples/s	Data 0.192s (0.741s)	Loss 292.50214 (368.10291)	Accuracy 0.938 (0.788)	 Cls Loss: 0.22022	 loss_cstency: 33.49318	 loss_hsic: 0.00003
+Epoch: [0][720/1021]	Time 1.972s (2.215s)	Speed 8.1 samples/s	Data 0.315s (0.741s)	Loss 349.69800 (367.63424)	Accuracy 0.875 (0.789)	 Cls Loss: 0.31269	 loss_cstency: 58.62870	 loss_hsic: 0.00001
+Epoch: [0][725/1021]	Time 1.634s (2.216s)	Speed 9.8 samples/s	Data 0.344s (0.743s)	Loss 296.87814 (367.32995)	Accuracy 1.000 (0.790)	 Cls Loss: 0.11937	 loss_cstency: 36.27044	 loss_hsic: 0.00003
+Epoch: [0][730/1021]	Time 4.622s (2.217s)	Speed 3.5 samples/s	Data 3.396s (0.744s)	Loss 292.53583 (367.03629)	Accuracy 0.938 (0.791)	 Cls Loss: 0.24097	 loss_cstency: 37.61702	 loss_hsic: 0.00003
+Epoch: [0][735/1021]	Time 1.876s (2.214s)	Speed 8.5 samples/s	Data 0.435s (0.742s)	Loss 309.17786 (366.73141)	Accuracy 0.938 (0.792)	 Cls Loss: 0.20133	 loss_cstency: 39.51876	 loss_hsic: 0.00001
+Epoch: [0][740/1021]	Time 1.700s (2.215s)	Speed 9.4 samples/s	Data 0.385s (0.743s)	Loss 352.09225 (366.31576)	Accuracy 0.812 (0.793)	 Cls Loss: 0.31212	 loss_cstency: 39.83863	 loss_hsic: 0.00003
+Epoch: [0][745/1021]	Time 1.610s (2.214s)	Speed 9.9 samples/s	Data 0.381s (0.741s)	Loss 315.51706 (366.07935)	Accuracy 0.875 (0.793)	 Cls Loss: 0.19739	 loss_cstency: 45.40619	 loss_hsic: 0.00002
+Epoch: [0][750/1021]	Time 2.742s (2.214s)	Speed 5.8 samples/s	Data 0.667s (0.739s)	Loss 358.94028 (365.61149)	Accuracy 0.938 (0.795)	 Cls Loss: 0.30284	 loss_cstency: 45.55520	 loss_hsic: 0.00003
+Epoch: [0][755/1021]	Time 1.759s (2.211s)	Speed 9.1 samples/s	Data 0.486s (0.738s)	Loss 320.72775 (365.11714)	Accuracy 1.000 (0.796)	 Cls Loss: 0.08222	 loss_cstency: 37.53512	 loss_hsic: 0.00003
+Epoch: [0][760/1021]	Time 1.579s (2.210s)	Speed 10.1 samples/s	Data 0.263s (0.736s)	Loss 275.85153 (364.68414)	Accuracy 1.000 (0.797)	 Cls Loss: 0.07448	 loss_cstency: 36.58758	 loss_hsic: 0.00003
+Epoch: [0][765/1021]	Time 4.783s (2.211s)	Speed 3.3 samples/s	Data 3.570s (0.738s)	Loss 274.01431 (364.28740)	Accuracy 1.000 (0.797)	 Cls Loss: 0.08974	 loss_cstency: 37.71167	 loss_hsic: 0.00003
+Epoch: [0][770/1021]	Time 1.883s (2.208s)	Speed 8.5 samples/s	Data 0.344s (0.735s)	Loss 274.93307 (363.99836)	Accuracy 0.938 (0.798)	 Cls Loss: 0.17878	 loss_cstency: 33.26797	 loss_hsic: 0.00003
+Epoch: [0][775/1021]	Time 1.662s (2.209s)	Speed 9.6 samples/s	Data 0.320s (0.736s)	Loss 304.54404 (363.63556)	Accuracy 0.938 (0.799)	 Cls Loss: 0.18128	 loss_cstency: 35.97511	 loss_hsic: 0.00003
+Epoch: [0][780/1021]	Time 1.582s (2.210s)	Speed 10.1 samples/s	Data 0.338s (0.737s)	Loss 317.55649 (363.23510)	Accuracy 1.000 (0.800)	 Cls Loss: 0.07328	 loss_cstency: 37.25694	 loss_hsic: 0.00002
+Epoch: [0][785/1021]	Time 1.452s (2.209s)	Speed 11.0 samples/s	Data 0.167s (0.735s)	Loss 310.82300 (362.84637)	Accuracy 0.875 (0.801)	 Cls Loss: 0.16342	 loss_cstency: 38.27296	 loss_hsic: 0.00003
+Epoch: [0][790/1021]	Time 2.602s (2.209s)	Speed 6.1 samples/s	Data 0.542s (0.735s)	Loss 300.72305 (362.45711)	Accuracy 1.000 (0.802)	 Cls Loss: 0.06851	 loss_cstency: 33.35009	 loss_hsic: 0.00003
+Epoch: [0][795/1021]	Time 1.780s (2.209s)	Speed 9.0 samples/s	Data 0.295s (0.735s)	Loss 292.81210 (362.02364)	Accuracy 0.938 (0.803)	 Cls Loss: 0.10983	 loss_cstency: 33.81545	 loss_hsic: 0.00003
+Epoch: [0][800/1021]	Time 4.112s (2.211s)	Speed 3.9 samples/s	Data 1.952s (0.735s)	Loss 263.72089 (361.61192)	Accuracy 1.000 (0.803)	 Cls Loss: 0.11967	 loss_cstency: 32.74078	 loss_hsic: 0.00003
+Epoch: [0][805/1021]	Time 1.807s (2.213s)	Speed 8.9 samples/s	Data 0.298s (0.734s)	Loss 271.88431 (361.53652)	Accuracy 1.000 (0.804)	 Cls Loss: 0.10661	 loss_cstency: 31.49219	 loss_hsic: 0.00003
+Epoch: [0][810/1021]	Time 1.825s (2.214s)	Speed 8.8 samples/s	Data 0.459s (0.733s)	Loss 308.96762 (361.21301)	Accuracy 1.000 (0.805)	 Cls Loss: 0.10134	 loss_cstency: 33.45813	 loss_hsic: 0.00003
+Epoch: [0][815/1021]	Time 1.572s (2.211s)	Speed 10.2 samples/s	Data 0.250s (0.731s)	Loss 301.85464 (360.89967)	Accuracy 0.938 (0.806)	 Cls Loss: 0.13930	 loss_cstency: 38.06221	 loss_hsic: 0.00002
+Epoch: [0][820/1021]	Time 1.668s (2.210s)	Speed 9.6 samples/s	Data 0.428s (0.730s)	Loss 280.86093 (360.40982)	Accuracy 0.812 (0.807)	 Cls Loss: 0.42280	 loss_cstency: 35.48956	 loss_hsic: 0.00003
+Epoch: [0][825/1021]	Time 1.612s (2.211s)	Speed 9.9 samples/s	Data 0.381s (0.730s)	Loss 309.37170 (360.03520)	Accuracy 1.000 (0.808)	 Cls Loss: 0.10477	 loss_cstency: 41.64216	 loss_hsic: 0.00003
+Epoch: [0][830/1021]	Time 2.286s (2.213s)	Speed 7.0 samples/s	Data 0.670s (0.730s)	Loss 365.27933 (359.73976)	Accuracy 0.938 (0.809)	 Cls Loss: 0.24404	 loss_cstency: 49.93451	 loss_hsic: 0.00003
+Epoch: [0][835/1021]	Time 2.512s (2.210s)	Speed 6.4 samples/s	Data 1.361s (0.729s)	Loss 334.58524 (359.53166)	Accuracy 0.938 (0.809)	 Cls Loss: 0.13471	 loss_cstency: 36.20601	 loss_hsic: 0.00002
+Epoch: [0][840/1021]	Time 1.704s (2.209s)	Speed 9.4 samples/s	Data 0.362s (0.728s)	Loss 317.09970 (359.23831)	Accuracy 0.938 (0.810)	 Cls Loss: 0.16782	 loss_cstency: 37.54338	 loss_hsic: 0.00003
+Epoch: [0][845/1021]	Time 1.774s (2.210s)	Speed 9.0 samples/s	Data 0.330s (0.728s)	Loss 290.20895 (358.88149)	Accuracy 0.938 (0.811)	 Cls Loss: 0.23632	 loss_cstency: 32.91476	 loss_hsic: 0.00003
+Epoch: [0][850/1021]	Time 2.775s (2.209s)	Speed 5.8 samples/s	Data 0.704s (0.726s)	Loss 310.73019 (358.87861)	Accuracy 0.938 (0.811)	 Cls Loss: 0.19245	 loss_cstency: 33.19582	 loss_hsic: 0.00003
+Epoch: [0][855/1021]	Time 1.716s (2.207s)	Speed 9.3 samples/s	Data 0.349s (0.724s)	Loss 289.26202 (358.60090)	Accuracy 0.875 (0.812)	 Cls Loss: 0.38893	 loss_cstency: 52.69783	 loss_hsic: 0.00002
+Epoch: [0][860/1021]	Time 1.934s (2.209s)	Speed 8.3 samples/s	Data 0.470s (0.726s)	Loss 254.63135 (358.39897)	Accuracy 0.875 (0.812)	 Cls Loss: 0.18929	 loss_cstency: 29.20587	 loss_hsic: 0.00003
+Epoch: [0][865/1021]	Time 1.762s (2.209s)	Speed 9.1 samples/s	Data 0.340s (0.724s)	Loss 284.46341 (358.10364)	Accuracy 1.000 (0.813)	 Cls Loss: 0.09821	 loss_cstency: 33.82412	 loss_hsic: 0.00003
+Epoch: [0][870/1021]	Time 3.073s (2.207s)	Speed 5.2 samples/s	Data 0.955s (0.723s)	Loss 297.53348 (357.66787)	Accuracy 0.812 (0.814)	 Cls Loss: 0.33629	 loss_cstency: 35.50572	 loss_hsic: 0.00004
+Epoch: [0][875/1021]	Time 1.709s (2.206s)	Speed 9.4 samples/s	Data 0.396s (0.722s)	Loss 363.58215 (357.47258)	Accuracy 0.938 (0.814)	 Cls Loss: 0.13597	 loss_cstency: 54.84911	 loss_hsic: 0.00003
+Epoch: [0][880/1021]	Time 1.574s (2.205s)	Speed 10.2 samples/s	Data 0.361s (0.720s)	Loss 309.75363 (357.28976)	Accuracy 0.750 (0.815)	 Cls Loss: 0.30205	 loss_cstency: 38.28592	 loss_hsic: 0.00002
+Epoch: [0][885/1021]	Time 2.102s (2.206s)	Speed 7.6 samples/s	Data 0.720s (0.721s)	Loss 423.17001 (357.15351)	Accuracy 0.750 (0.815)	 Cls Loss: 0.38900	 loss_cstency: 112.51140	 loss_hsic: 0.00002
+Epoch: [0][890/1021]	Time 2.120s (2.206s)	Speed 7.5 samples/s	Data 0.510s (0.721s)	Loss 284.77505 (356.76434)	Accuracy 0.875 (0.816)	 Cls Loss: 0.30598	 loss_cstency: 35.82928	 loss_hsic: 0.00003
+Epoch: [0][895/1021]	Time 1.808s (2.204s)	Speed 8.9 samples/s	Data 0.398s (0.719s)	Loss 251.50224 (356.32295)	Accuracy 1.000 (0.816)	 Cls Loss: 0.07082	 loss_cstency: 31.55952	 loss_hsic: 0.00002
+Epoch: [0][900/1021]	Time 1.708s (2.203s)	Speed 9.4 samples/s	Data 0.408s (0.718s)	Loss 404.40213 (356.06769)	Accuracy 0.938 (0.817)	 Cls Loss: 0.16454	 loss_cstency: 36.16980	 loss_hsic: 0.00002
+Epoch: [0][905/1021]	Time 3.748s (2.204s)	Speed 4.3 samples/s	Data 1.678s (0.719s)	Loss 340.07321 (355.73072)	Accuracy 1.000 (0.818)	 Cls Loss: 0.11941	 loss_cstency: 39.28482	 loss_hsic: 0.00002
+Epoch: [0][910/1021]	Time 2.655s (2.203s)	Speed 6.0 samples/s	Data 1.535s (0.719s)	Loss 348.14816 (355.46668)	Accuracy 0.875 (0.819)	 Cls Loss: 0.32631	 loss_cstency: 45.09615	 loss_hsic: 0.00003
+Epoch: [0][915/1021]	Time 1.788s (2.202s)	Speed 8.9 samples/s	Data 0.374s (0.718s)	Loss 302.07785 (355.21307)	Accuracy 0.875 (0.819)	 Cls Loss: 0.36015	 loss_cstency: 35.99279	 loss_hsic: 0.00002
+Epoch: [0][920/1021]	Time 1.788s (2.203s)	Speed 8.9 samples/s	Data 0.435s (0.719s)	Loss 269.63055 (354.81799)	Accuracy 0.938 (0.820)	 Cls Loss: 0.14010	 loss_cstency: 31.05570	 loss_hsic: 0.00003
+Epoch: [0][925/1021]	Time 2.902s (2.206s)	Speed 5.5 samples/s	Data 0.673s (0.720s)	Loss 279.60791 (354.62984)	Accuracy 0.875 (0.820)	 Cls Loss: 0.23295	 loss_cstency: 29.44743	 loss_hsic: 0.00003
+Epoch: [0][930/1021]	Time 1.776s (2.203s)	Speed 9.0 samples/s	Data 0.370s (0.718s)	Loss 388.03561 (354.86906)	Accuracy 0.938 (0.821)	 Cls Loss: 0.09754	 loss_cstency: 55.28774	 loss_hsic: 0.00001
+Epoch: [0][935/1021]	Time 1.776s (2.203s)	Speed 9.0 samples/s	Data 0.444s (0.717s)	Loss 348.52695 (354.60909)	Accuracy 0.938 (0.821)	 Cls Loss: 0.18710	 loss_cstency: 43.72478	 loss_hsic: 0.00002
+Epoch: [0][940/1021]	Time 1.929s (2.204s)	Speed 8.3 samples/s	Data 0.490s (0.718s)	Loss 294.06912 (354.31418)	Accuracy 0.875 (0.822)	 Cls Loss: 0.20775	 loss_cstency: 31.02703	 loss_hsic: 0.00002
+Epoch: [0][945/1021]	Time 3.254s (2.203s)	Speed 4.9 samples/s	Data 1.168s (0.717s)	Loss 254.14868 (354.02928)	Accuracy 1.000 (0.822)	 Cls Loss: 0.10735	 loss_cstency: 29.32045	 loss_hsic: 0.00002
+Epoch: [0][950/1021]	Time 1.729s (2.202s)	Speed 9.3 samples/s	Data 0.427s (0.716s)	Loss 349.66641 (353.79742)	Accuracy 0.875 (0.823)	 Cls Loss: 0.19805	 loss_cstency: 33.79536	 loss_hsic: 0.00003
+Epoch: [0][955/1021]	Time 1.502s (2.202s)	Speed 10.7 samples/s	Data 0.291s (0.715s)	Loss 282.74966 (353.46827)	Accuracy 0.938 (0.823)	 Cls Loss: 0.20053	 loss_cstency: 31.08576	 loss_hsic: 0.00003
+Epoch: [0][960/1021]	Time 2.463s (2.200s)	Speed 6.5 samples/s	Data 0.259s (0.714s)	Loss 285.39267 (353.19525)	Accuracy 0.750 (0.823)	 Cls Loss: 0.28507	 loss_cstency: 31.23777	 loss_hsic: 0.00003
+Epoch: [0][965/1021]	Time 1.715s (2.198s)	Speed 9.3 samples/s	Data 0.390s (0.712s)	Loss 329.73260 (352.89989)	Accuracy 0.938 (0.824)	 Cls Loss: 0.17078	 loss_cstency: 32.50164	 loss_hsic: 0.00002
+Epoch: [0][970/1021]	Time 1.516s (2.198s)	Speed 10.6 samples/s	Data 0.350s (0.712s)	Loss 275.98764 (352.58431)	Accuracy 0.938 (0.825)	 Cls Loss: 0.17825	 loss_cstency: 27.32472	 loss_hsic: 0.00004
+Epoch: [0][975/1021]	Time 2.107s (2.200s)	Speed 7.6 samples/s	Data 0.392s (0.713s)	Loss 260.61230 (352.33342)	Accuracy 0.938 (0.825)	 Cls Loss: 0.21013	 loss_cstency: 29.94209	 loss_hsic: 0.00004
+Epoch: [0][980/1021]	Time 4.554s (2.200s)	Speed 3.5 samples/s	Data 2.687s (0.714s)	Loss 275.09555 (352.21779)	Accuracy 1.000 (0.826)	 Cls Loss: 0.11029	 loss_cstency: 30.83288	 loss_hsic: 0.00003
+Epoch: [0][985/1021]	Time 1.792s (2.199s)	Speed 8.9 samples/s	Data 0.397s (0.713s)	Loss 338.26871 (351.94726)	Accuracy 0.875 (0.826)	 Cls Loss: 0.28917	 loss_cstency: 39.99649	 loss_hsic: 0.00002
+Epoch: [0][990/1021]	Time 1.689s (2.200s)	Speed 9.5 samples/s	Data 0.411s (0.712s)	Loss 264.27728 (351.64335)	Accuracy 1.000 (0.827)	 Cls Loss: 0.11316	 loss_cstency: 30.41632	 loss_hsic: 0.00003
+Epoch: [0][995/1021]	Time 2.381s (2.200s)	Speed 6.7 samples/s	Data 0.401s (0.712s)	Loss 278.66095 (351.31205)	Accuracy 0.938 (0.828)	 Cls Loss: 0.17477	 loss_cstency: 32.91861	 loss_hsic: 0.00004
+Epoch: [0][1000/1021]	Time 2.398s (2.200s)	Speed 6.7 samples/s	Data 0.449s (0.712s)	Loss 347.71158 (351.10410)	Accuracy 1.000 (0.828)	 Cls Loss: 0.10070	 loss_cstency: 33.07693	 loss_hsic: 0.00002
+Epoch: [0][1005/1021]	Time 1.752s (2.199s)	Speed 9.1 samples/s	Data 0.429s (0.711s)	Loss 272.79367 (350.82201)	Accuracy 0.938 (0.829)	 Cls Loss: 0.13827	 loss_cstency: 29.44248	 loss_hsic: 0.00003
+Epoch: [0][1010/1021]	Time 1.341s (2.199s)	Speed 11.9 samples/s	Data 0.289s (0.712s)	Loss 270.36456 (350.64172)	Accuracy 1.000 (0.830)	 Cls Loss: 0.06959	 loss_cstency: 27.00549	 loss_hsic: 0.00003
+Epoch: [0][1015/1021]	Time 1.872s (2.195s)	Speed 8.5 samples/s	Data 0.986s (0.710s)	Loss 321.17166 (350.40040)	Accuracy 0.938 (0.830)	 Cls Loss: 0.10631	 loss_cstency: 31.58862	 loss_hsic: 0.00003
+Epoch: [0][1020/1021]	Time 0.962s (2.189s)	Speed 16.6 samples/s	Data 0.079s (0.707s)	Loss 293.01401 (350.15757)	Accuracy 0.938 (0.831)	 Cls Loss: 0.24281	 loss_cstency: 31.45292	 loss_hsic: 0.00003
+Loading val dataloader successfully! -- 10.697873830795288
+Loading Train dataloader successfully! -- 47.60924172401428
+Loading Test dataloader successfully! -- 11.296890258789062
+Starting training process...
+Loading val dataloader successfully! -- 14.794442176818848
+Loading Train dataloader successfully! -- 48.66687083244324
+Loading Test dataloader successfully! -- 12.83070182800293
+Starting training process...
+Epoch: [0][0/1021]	Time 26.570s (26.570s)	Speed 0.6 samples/s	Data 22.042s (22.042s)	Loss 721.44263 (721.44263)	Accuracy 0.375 (0.375)	 Cls Loss: 0.69405	 loss_cstency: 277.36714	 loss_hsic: 0.00001
+Epoch: [0][5/1021]	Time 1.869s (5.696s)	Speed 8.6 samples/s	Data 0.413s (3.916s)	Loss 723.64984 (703.92128)	Accuracy 0.562 (0.469)	 Cls Loss: 0.69395	 loss_cstency: 284.24309	 loss_hsic: 0.00002
+Epoch: [0][10/1021]	Time 1.014s (4.087s)	Speed 15.8 samples/s	Data 0.103s (2.616s)	Loss 673.98804 (699.67010)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69198	 loss_cstency: 224.56342	 loss_hsic: 0.00002
+Epoch: [0][0/706]	Time 18.554s (18.554s)	Speed 0.9 samples/s	Data 18.227s (18.227s)	Loss 751.21265 (751.21265)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69724	 loss_cstency: 167.96996	 loss_hsic: 0.00001
+Epoch: [0][1/706]	Time 0.441s (9.497s)	Speed 36.3 samples/s	Data 0.198s (9.213s)	Loss 566.58179 (658.89722)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69670	 loss_cstency: 167.95864	 loss_hsic: 0.00003
+Epoch: [0][2/706]	Time 0.410s (6.468s)	Speed 39.0 samples/s	Data 0.153s (6.193s)	Loss 538.93787 (618.91077)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69698	 loss_cstency: 167.93096	 loss_hsic: 0.00002
+Epoch: [0][3/706]	Time 0.411s (4.954s)	Speed 38.9 samples/s	Data 0.163s (4.685s)	Loss 575.07581 (607.95203)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69683	 loss_cstency: 167.52836	 loss_hsic: 0.00002
+Epoch: [0][4/706]	Time 0.504s (4.064s)	Speed 31.7 samples/s	Data 0.248s (3.798s)	Loss 660.56390 (618.47440)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69687	 loss_cstency: 167.11356	 loss_hsic: 0.00004
+Epoch: [0][5/706]	Time 0.740s (3.510s)	Speed 21.6 samples/s	Data 0.441s (3.238s)	Loss 608.32648 (616.78308)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69672	 loss_cstency: 164.32681	 loss_hsic: 0.00002
+Epoch: [0][6/706]	Time 0.493s (3.079s)	Speed 32.4 samples/s	Data 0.227s (2.808s)	Loss 530.49774 (604.45660)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69675	 loss_cstency: 162.02639	 loss_hsic: 0.00002
+Epoch: [0][7/706]	Time 12.263s (4.227s)	Speed 1.3 samples/s	Data 11.912s (3.946s)	Loss 686.89447 (614.76134)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69665	 loss_cstency: 166.21767	 loss_hsic: 0.00002
+Epoch: [0][8/706]	Time 0.658s (3.831s)	Speed 24.3 samples/s	Data 0.285s (3.539s)	Loss 610.64685 (614.30417)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69673	 loss_cstency: 163.99002	 loss_hsic: 0.00002
+Epoch: [0][9/706]	Time 0.725s (3.520s)	Speed 22.1 samples/s	Data 0.277s (3.213s)	Loss 544.92773 (607.36653)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69742	 loss_cstency: 167.84383	 loss_hsic: 0.00003
+Epoch: [0][10/706]	Time 0.627s (3.257s)	Speed 25.5 samples/s	Data 0.327s (2.951s)	Loss 660.26379 (612.17537)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69676	 loss_cstency: 167.15228	 loss_hsic: 0.00003
+Saved best model at epoch --- 0
+Loading val dataloader successfully! -- 18.478364944458008
+Loading Train dataloader successfully! -- 52.28649401664734
+Loading Test dataloader successfully! -- 12.935181617736816
+Loading val dataloader successfully! -- 12.564570903778076
+Loading Train dataloader successfully! -- 47.74665713310242
+Loading Test dataloader successfully! -- 14.32772946357727
+Starting training process...
+Epoch: [0][0/1021]	Time 24.731s (24.731s)	Speed 0.6 samples/s	Data 19.431s (19.431s)	Loss 691.27161 (691.27161)	Accuracy 0.438 (0.438)	 Cls Loss: 0.69385	 loss_cstency: 283.92690	 loss_hsic: 0.00000
+Epoch: [0][5/1021]	Time 0.462s (4.500s)	Speed 34.6 samples/s	Data 0.132s (3.332s)	Loss 699.49780 (686.89276)	Accuracy 0.500 (0.458)	 Cls Loss: 0.69345	 loss_cstency: 273.71573	 loss_hsic: 0.00000
+Epoch: [0][10/1021]	Time 0.495s (3.660s)	Speed 32.3 samples/s	Data 0.144s (2.751s)	Loss 690.80054 (690.64711)	Accuracy 0.500 (0.466)	 Cls Loss: 0.69234	 loss_cstency: 280.98352	 loss_hsic: 0.00000
+Epoch: [0][0/706]	Time 16.799s (16.799s)	Speed 1.0 samples/s	Data 16.499s (16.499s)	Loss 781.02393 (781.02393)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69424	 loss_cstency: 168.73302	 loss_hsic: 0.00000
+Epoch: [0][1/706]	Time 0.315s (8.557s)	Speed 50.8 samples/s	Data 0.077s (8.288s)	Loss 605.28772 (693.15582)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69399	 loss_cstency: 168.53800	 loss_hsic: 0.00000
+Epoch: [0][2/706]	Time 0.327s (5.813s)	Speed 49.0 samples/s	Data 0.087s (5.554s)	Loss 531.42603 (639.24589)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69385	 loss_cstency: 166.49674	 loss_hsic: 0.00000
+Epoch: [0][3/706]	Time 0.327s (4.442s)	Speed 49.0 samples/s	Data 0.072s (4.184s)	Loss 594.95447 (628.17303)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69408	 loss_cstency: 169.16393	 loss_hsic: 0.00000
+Epoch: [0][4/706]	Time 0.469s (3.647s)	Speed 34.1 samples/s	Data 0.219s (3.391s)	Loss 601.72668 (622.88376)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69418	 loss_cstency: 169.29729	 loss_hsic: 0.00000
+Epoch: [0][5/706]	Time 0.411s (3.108s)	Speed 38.9 samples/s	Data 0.170s (2.854s)	Loss 621.92798 (622.72447)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69405	 loss_cstency: 169.14144	 loss_hsic: 0.00000
+Epoch: [0][6/706]	Time 0.502s (2.736s)	Speed 31.9 samples/s	Data 0.202s (2.475s)	Loss 556.28296 (613.23282)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69417	 loss_cstency: 168.03593	 loss_hsic: 0.00000
+Epoch: [0][7/706]	Time 13.678s (4.103s)	Speed 1.2 samples/s	Data 13.347s (3.834s)	Loss 659.27966 (618.98868)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69409	 loss_cstency: 167.93572	 loss_hsic: 0.00000
+Epoch: [0][8/706]	Time 0.371s (3.689s)	Speed 43.1 samples/s	Data 0.115s (3.421s)	Loss 648.46997 (622.26438)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69398	 loss_cstency: 167.08696	 loss_hsic: 0.00000
+Epoch: [0][9/706]	Time 0.474s (3.367s)	Speed 33.7 samples/s	Data 0.138s (3.093s)	Loss 550.29004 (615.06694)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69417	 loss_cstency: 171.59055	 loss_hsic: 0.00000
+Epoch: [0][10/706]	Time 0.704s (3.125s)	Speed 22.7 samples/s	Data 0.391s (2.847s)	Loss 705.24939 (623.26535)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69389	 loss_cstency: 167.75820	 loss_hsic: 0.00000
+Saved best model at epoch --- 0
+Reloading data for epoch 1...
+Epoch: [1][0/1021]	Time 10.735s (10.735s)	Speed 1.5 samples/s	Data 7.269s (7.269s)	Loss 664.59906 (664.59906)	Accuracy 0.625 (0.625)	 Cls Loss: 0.69264	 loss_cstency: 262.69008	 loss_hsic: 0.00000
+Epoch: [1][5/1021]	Time 0.956s (3.631s)	Speed 16.7 samples/s	Data 0.123s (2.311s)	Loss 668.45001 (666.02309)	Accuracy 0.625 (0.562)	 Cls Loss: 0.69298	 loss_cstency: 253.32296	 loss_hsic: 0.00000
+Epoch: [1][10/1021]	Time 1.128s (3.241s)	Speed 14.2 samples/s	Data 0.249s (2.055s)	Loss 618.07812 (662.48460)	Accuracy 0.375 (0.528)	 Cls Loss: 0.69314	 loss_cstency: 208.10935	 loss_hsic: 0.00000
+Epoch: [1][0/706]	Time 14.915s (14.915s)	Speed 1.1 samples/s	Data 14.275s (14.275s)	Loss 703.57190 (703.57190)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69346	 loss_cstency: 234.24040	 loss_hsic: 0.00000
+Epoch: [1][1/706]	Time 0.917s (7.916s)	Speed 17.4 samples/s	Data 0.490s (7.383s)	Loss 654.99158 (679.28174)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69373	 loss_cstency: 214.32468	 loss_hsic: 0.00000
+Epoch: [1][2/706]	Time 0.725s (5.519s)	Speed 22.1 samples/s	Data 0.290s (5.018s)	Loss 586.94080 (648.50142)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69478	 loss_cstency: 206.85232	 loss_hsic: 0.00000
+Epoch: [1][3/706]	Time 0.804s (4.340s)	Speed 19.9 samples/s	Data 0.326s (3.845s)	Loss 789.58636 (683.77266)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69344	 loss_cstency: 219.26912	 loss_hsic: 0.00000
+Epoch: [1][4/706]	Time 1.302s (3.733s)	Speed 12.3 samples/s	Data 0.502s (3.177s)	Loss 676.95990 (682.41011)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69419	 loss_cstency: 218.75626	 loss_hsic: 0.00000
+Epoch: [1][5/706]	Time 1.477s (3.357s)	Speed 10.8 samples/s	Data 0.701s (2.764s)	Loss 630.84369 (673.81570)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69422	 loss_cstency: 225.15047	 loss_hsic: 0.00000
+Epoch: [1][6/706]	Time 1.290s (3.061s)	Speed 12.4 samples/s	Data 0.614s (2.457s)	Loss 577.28778 (660.02600)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69329	 loss_cstency: 207.34837	 loss_hsic: 0.00000
+Epoch: [1][7/706]	Time 5.882s (3.414s)	Speed 2.7 samples/s	Data 5.399s (2.825s)	Loss 685.97180 (663.26923)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69346	 loss_cstency: 231.37849	 loss_hsic: 0.00000
+Epoch: [1][8/706]	Time 1.094s (3.156s)	Speed 14.6 samples/s	Data 0.546s (2.571s)	Loss 672.77032 (664.32490)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69373	 loss_cstency: 216.66834	 loss_hsic: 0.00000
+Epoch: [1][9/706]	Time 0.856s (2.926s)	Speed 18.7 samples/s	Data 0.423s (2.357s)	Loss 602.04285 (658.09670)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69320	 loss_cstency: 217.84641	 loss_hsic: 0.00000
+Epoch: [1][10/706]	Time 0.760s (2.729s)	Speed 21.1 samples/s	Data 0.421s (2.181s)	Loss 638.32916 (656.29965)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69319	 loss_cstency: 216.21104	 loss_hsic: 0.00000
+Reloading data for epoch 2...
+Epoch: [2][0/1021]	Time 17.627s (17.627s)	Speed 0.9 samples/s	Data 16.655s (16.655s)	Loss 735.94971 (735.94971)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69613	 loss_cstency: 212.69816	 loss_hsic: 0.00000
+Epoch: [2][5/1021]	Time 1.431s (3.899s)	Speed 11.2 samples/s	Data 0.354s (2.967s)	Loss 602.25537 (658.36931)	Accuracy 0.438 (0.458)	 Cls Loss: 0.69129	 loss_cstency: 203.60507	 loss_hsic: 0.00000
+Epoch: [2][10/1021]	Time 0.947s (3.264s)	Speed 16.9 samples/s	Data 0.074s (2.249s)	Loss 592.66071 (643.91976)	Accuracy 0.562 (0.472)	 Cls Loss: 0.68944	 loss_cstency: 199.74676	 loss_hsic: 0.00000
+Epoch: [2][0/706]	Time 15.682s (15.682s)	Speed 1.0 samples/s	Data 14.327s (14.327s)	Loss 582.43848 (582.43848)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69243	 loss_cstency: 178.32168	 loss_hsic: 0.00000
+Epoch: [2][1/706]	Time 1.001s (8.341s)	Speed 16.0 samples/s	Data 0.570s (7.448s)	Loss 527.82892 (555.13370)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69157	 loss_cstency: 179.40892	 loss_hsic: 0.00000
+Epoch: [2][2/706]	Time 0.997s (5.893s)	Speed 16.1 samples/s	Data 0.506s (5.134s)	Loss 534.84045 (548.36928)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69290	 loss_cstency: 171.07600	 loss_hsic: 0.00000
+Epoch: [2][3/706]	Time 0.856s (4.634s)	Speed 18.7 samples/s	Data 0.408s (3.953s)	Loss 559.20325 (551.07777)	Accuracy 0.562 (0.516)	 Cls Loss: 0.69323	 loss_cstency: 174.92675	 loss_hsic: 0.00000
+Epoch: [2][4/706]	Time 0.836s (3.874s)	Speed 19.1 samples/s	Data 0.423s (3.247s)	Loss 688.62830 (578.58788)	Accuracy 0.438 (0.500)	 Cls Loss: 0.69181	 loss_cstency: 174.31638	 loss_hsic: 0.00000
+Epoch: [2][5/706]	Time 0.784s (3.359s)	Speed 20.4 samples/s	Data 0.354s (2.765s)	Loss 576.70117 (578.27343)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69225	 loss_cstency: 169.65988	 loss_hsic: 0.00000
+Epoch: [2][6/706]	Time 0.761s (2.988s)	Speed 21.0 samples/s	Data 0.367s (2.422s)	Loss 562.09473 (575.96218)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69191	 loss_cstency: 184.74483	 loss_hsic: 0.00000
+Epoch: [2][7/706]	Time 5.909s (3.353s)	Speed 2.7 samples/s	Data 4.967s (2.740s)	Loss 569.89453 (575.20373)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69226	 loss_cstency: 190.62547	 loss_hsic: 0.00000
+Epoch: [2][8/706]	Time 1.669s (3.166s)	Speed 9.6 samples/s	Data 0.671s (2.510s)	Loss 647.99036 (583.29113)	Accuracy 0.438 (0.493)	 Cls Loss: 0.69226	 loss_cstency: 183.90275	 loss_hsic: 0.00000
+Epoch: [2][9/706]	Time 1.826s (3.032s)	Speed 8.8 samples/s	Data 0.876s (2.347s)	Loss 637.51593 (588.71361)	Accuracy 0.500 (0.494)	 Cls Loss: 0.69151	 loss_cstency: 185.65421	 loss_hsic: 0.00000
+Epoch: [2][10/706]	Time 0.849s (2.834s)	Speed 18.8 samples/s	Data 0.403s (2.170s)	Loss 588.95013 (588.73511)	Accuracy 0.500 (0.494)	 Cls Loss: 0.69297	 loss_cstency: 184.48458	 loss_hsic: 0.00000
+Reloading data for epoch 3...
+Epoch: [3][0/1021]	Time 17.409s (17.409s)	Speed 0.9 samples/s	Data 16.516s (16.516s)	Loss 580.08545 (580.08545)	Accuracy 0.438 (0.438)	 Cls Loss: 0.69412	 loss_cstency: 198.59452	 loss_hsic: 0.00000
+Epoch: [3][5/1021]	Time 1.848s (3.875s)	Speed 8.7 samples/s	Data 0.328s (2.897s)	Loss 684.35315 (589.17274)	Accuracy 0.500 (0.490)	 Cls Loss: 0.69036	 loss_cstency: 197.27478	 loss_hsic: 0.00000
+Epoch: [3][10/1021]	Time 1.669s (3.383s)	Speed 9.6 samples/s	Data 0.306s (2.304s)	Loss 605.27094 (595.00168)	Accuracy 0.562 (0.500)	 Cls Loss: 0.68919	 loss_cstency: 194.74784	 loss_hsic: 0.00000
+Epoch: [3][0/706]	Time 13.468s (13.468s)	Speed 1.2 samples/s	Data 12.693s (12.693s)	Loss 588.44556 (588.44556)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69365	 loss_cstency: 169.07978	 loss_hsic: 0.00000
+Epoch: [3][1/706]	Time 0.949s (7.209s)	Speed 16.9 samples/s	Data 0.404s (6.549s)	Loss 586.67041 (587.55798)	Accuracy 0.500 (0.500)	 Cls Loss: 0.68970	 loss_cstency: 164.16069	 loss_hsic: 0.00000
+Epoch: [3][2/706]	Time 1.009s (5.142s)	Speed 15.9 samples/s	Data 0.552s (4.550s)	Loss 588.72021 (587.94539)	Accuracy 0.562 (0.521)	 Cls Loss: 0.69568	 loss_cstency: 172.67056	 loss_hsic: 0.00000
+Epoch: [3][3/706]	Time 0.837s (4.066s)	Speed 19.1 samples/s	Data 0.353s (3.501s)	Loss 625.12903 (597.24130)	Accuracy 0.500 (0.516)	 Cls Loss: 0.69212	 loss_cstency: 170.14687	 loss_hsic: 0.00000
+Epoch: [3][4/706]	Time 1.241s (3.501s)	Speed 12.9 samples/s	Data 0.492s (2.899s)	Loss 552.69952 (588.33295)	Accuracy 0.500 (0.512)	 Cls Loss: 0.69252	 loss_cstency: 173.41901	 loss_hsic: 0.00000
+Epoch: [3][5/706]	Time 1.317s (3.137s)	Speed 12.2 samples/s	Data 0.578s (2.512s)	Loss 753.22998 (615.81579)	Accuracy 0.500 (0.510)	 Cls Loss: 0.69246	 loss_cstency: 171.43703	 loss_hsic: 0.00000
+Epoch: [3][6/706]	Time 1.365s (2.884s)	Speed 11.7 samples/s	Data 0.583s (2.237s)	Loss 733.95337 (632.69258)	Accuracy 0.500 (0.509)	 Cls Loss: 0.69357	 loss_cstency: 167.31258	 loss_hsic: 0.00000
+Epoch: [3][7/706]	Time 6.783s (3.371s)	Speed 2.4 samples/s	Data 6.241s (2.737s)	Loss 546.43652 (621.91058)	Accuracy 0.500 (0.508)	 Cls Loss: 0.69247	 loss_cstency: 173.64053	 loss_hsic: 0.00000
+Epoch: [3][8/706]	Time 0.896s (3.096s)	Speed 17.9 samples/s	Data 0.431s (2.481s)	Loss 525.61987 (611.21161)	Accuracy 0.500 (0.507)	 Cls Loss: 0.69257	 loss_cstency: 166.22401	 loss_hsic: 0.00000
+Epoch: [3][9/706]	Time 0.901s (2.877s)	Speed 17.8 samples/s	Data 0.456s (2.278s)	Loss 680.55835 (618.14628)	Accuracy 0.500 (0.506)	 Cls Loss: 0.69291	 loss_cstency: 168.43121	 loss_hsic: 0.00000
+Epoch: [3][10/706]	Time 0.839s (2.691s)	Speed 19.1 samples/s	Data 0.401s (2.108s)	Loss 807.92102 (635.39853)	Accuracy 0.500 (0.506)	 Cls Loss: 0.69295	 loss_cstency: 170.61241	 loss_hsic: 0.00000
+Reloading data for epoch 4...
+Epoch: [4][0/1021]	Time 16.789s (16.789s)	Speed 1.0 samples/s	Data 15.876s (15.876s)	Loss 582.89917 (582.89917)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69160	 loss_cstency: 195.12561	 loss_hsic: 0.00000
+Epoch: [4][5/1021]	Time 1.296s (3.707s)	Speed 12.3 samples/s	Data 0.309s (2.802s)	Loss 538.45129 (635.47693)	Accuracy 0.500 (0.521)	 Cls Loss: 0.68920	 loss_cstency: 189.52932	 loss_hsic: 0.00000
+Epoch: [4][10/1021]	Time 1.282s (3.259s)	Speed 12.5 samples/s	Data 0.226s (2.271s)	Loss 569.05609 (615.93907)	Accuracy 0.438 (0.506)	 Cls Loss: 0.69184	 loss_cstency: 189.96750	 loss_hsic: 0.00000
+Epoch: [4][0/706]	Time 13.738s (13.738s)	Speed 1.2 samples/s	Data 12.974s (12.974s)	Loss 699.21887 (699.21887)	Accuracy 0.438 (0.438)	 Cls Loss: 0.69466	 loss_cstency: 169.82323	 loss_hsic: 0.00000
+Epoch: [4][1/706]	Time 1.318s (7.528s)	Speed 12.1 samples/s	Data 0.577s (6.776s)	Loss 586.03174 (642.62531)	Accuracy 0.500 (0.469)	 Cls Loss: 0.69139	 loss_cstency: 169.61459	 loss_hsic: 0.00000
+Epoch: [4][2/706]	Time 1.440s (5.499s)	Speed 11.1 samples/s	Data 0.700s (4.751s)	Loss 578.33051 (621.19371)	Accuracy 0.500 (0.479)	 Cls Loss: 0.69380	 loss_cstency: 167.83179	 loss_hsic: 0.00000
+Epoch: [4][3/706]	Time 1.536s (4.508s)	Speed 10.4 samples/s	Data 0.668s (3.730s)	Loss 586.64197 (612.55577)	Accuracy 0.500 (0.484)	 Cls Loss: 0.69202	 loss_cstency: 167.16099	 loss_hsic: 0.00000
+Epoch: [4][4/706]	Time 1.272s (3.861s)	Speed 12.6 samples/s	Data 0.643s (3.113s)	Loss 536.06201 (597.25702)	Accuracy 0.500 (0.487)	 Cls Loss: 0.69289	 loss_cstency: 162.69773	 loss_hsic: 0.00000
+Epoch: [4][5/706]	Time 0.943s (3.375s)	Speed 17.0 samples/s	Data 0.433s (2.666s)	Loss 535.29089 (586.92933)	Accuracy 0.500 (0.490)	 Cls Loss: 0.69388	 loss_cstency: 164.17563	 loss_hsic: 0.00000
+Epoch: [4][6/706]	Time 0.864s (3.016s)	Speed 18.5 samples/s	Data 0.448s (2.349s)	Loss 516.96655 (576.93465)	Accuracy 0.500 (0.491)	 Cls Loss: 0.69311	 loss_cstency: 165.68829	 loss_hsic: 0.00000
+Epoch: [4][7/706]	Time 5.298s (3.301s)	Speed 3.0 samples/s	Data 4.660s (2.638s)	Loss 567.71619 (575.78234)	Accuracy 0.500 (0.492)	 Cls Loss: 0.69348	 loss_cstency: 161.34577	 loss_hsic: 0.00000
+Epoch: [4][8/706]	Time 0.938s (3.039s)	Speed 17.1 samples/s	Data 0.529s (2.404s)	Loss 597.37524 (578.18155)	Accuracy 0.500 (0.493)	 Cls Loss: 0.69197	 loss_cstency: 162.11375	 loss_hsic: 0.00000
+Epoch: [4][9/706]	Time 0.782s (2.813s)	Speed 20.5 samples/s	Data 0.395s (2.203s)	Loss 626.34692 (582.99809)	Accuracy 0.500 (0.494)	 Cls Loss: 0.69502	 loss_cstency: 165.16728	 loss_hsic: 0.00000
+Epoch: [4][10/706]	Time 0.927s (2.641s)	Speed 17.3 samples/s	Data 0.399s (2.039s)	Loss 518.91248 (577.17212)	Accuracy 0.500 (0.494)	 Cls Loss: 0.69239	 loss_cstency: 159.87948	 loss_hsic: 0.00000

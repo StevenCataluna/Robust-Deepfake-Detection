@@ -1,0 +1,13 @@
+Flip Test is used --- False
+Turning on evaluation mode...
+Loading weight ... TrainedModels/HSIC_lambda_0.1_best_model.pth
+Using metric-base binary for evaluation!
+Video level evaluation mode: True
+Dataset loading time --- 11.080771446228027
+Inferencing time --- 21.296177625656128
+Inferencing time --- 21.360142946243286
+Inferencing time --- 21.420268535614014
+Inferencing time --- 21.484355926513672
+Inferencing time --- 21.547523498535156
+Inferencing time --- 21.605875968933105
+Current ACC, AUC, AP, AR, mF1 for ['Deepfakes'] --- ['fake', 'real'] --                 83.87096774193549 -- nan -- 100.0 -- 41.935483870967744 -- 59.09090909090909

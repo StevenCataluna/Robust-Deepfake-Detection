@@ -1,0 +1,36 @@
+Flip Test is used --- False
+Turning on single image test mode...
+Loading weight ... pretrained/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Inferencing time --- 1.078070878982544
+Real --- -6.918710149998309
+-----------------***--------------------
+Flip Test is used --- False
+Turning on single image test mode...
+Loading weight ... pretrained/PoseEfficientNet_EFN_hm100_EFPN_NoBasedCLS_Focal_C3_256Cstency100_32BI_SAM(Adam)_ADV_Erasing1_OutSigmoid_model_best.pth
+Inferencing time --- 0.7079756259918213
+Real --- -0.30901084727514383
+-----------------***--------------------
+Flip Test is used --- False
+Turning on single image test mode...
+Loading weight ... pretrained/PoseEfficientNet_EFN_hm10_EFPN_NoBasedCLS_Focal_C3_256Cst100_8SBI_SAM(Adam)_ADV_Era1_OutSigmoid_1e7_boost500_UnFZ_model_best (1).pth
+Inferencing time --- 0.7728519439697266
+Real --- -1.52481124466249
+-----------------***--------------------
+Flip Test is used --- False
+Turning on single image test mode...
+Loading weight ... pretrained/PoseEfficientNet_EFN_hm10_EFPN_NoBasedCLS_Focal_C3_256Cst100_8SBI_SAM(Adam)_ADV_Era1_OutSigmoid_1e7_boost500_UnFZ_model_best (1).pth
+Inferencing time --- 0.7514479160308838
+Fake --- 1.9118551042832057
+-----------------***--------------------
+Flip Test is used --- False
+Turning on single image test mode...
+Loading weight ... pretrained/PoseEfficientNet_EFN_hm10_EFPN_NoBasedCLS_Focal_C3_256Cst100_8SBI_SAM(Adam)_ADV_Era1_OutSigmoid_1e7_boost500_UnFZ_model_best (1).pth
+Inferencing time --- 1.173349380493164
+Fake --- 1.9118551042832057
+-----------------***--------------------
+Flip Test is used --- False
+Turning on single image test mode...
+Loading weight ... pretrained/PoseEfficientNet_EFN_hm10_EFPN_NoBasedCLS_Focal_C3_256Cst100_8SBI_SAM(Adam)_ADV_Era1_OutSigmoid_1e7_boost500_UnFZ_model_best (1).pth
+Inferencing time --- 1.00296950340271
+Fake --- 7.75581790534725
+-----------------***--------------------

@@ -1,0 +1,56 @@
+Loading val dataloader successfully! -- 0.11487889289855957
+Loading Train dataloader successfully! -- 0.7966766357421875
+Loading Test dataloader successfully! -- 0.25157642364501953
+Starting training process...
+Epoch: [0][0/640]	Time 96.585s (96.585s)	Speed 0.2 samples/s	Data 76.346s (76.346s)	Loss 565.93995 (565.93995)	Accuracy 0.500 (0.500)	 Cls Loss: 0.69347	 loss_cstency: 187.22376	 loss_hsic: 0.00004
+Epoch: [0][5/640]	Time 18.404s (47.321s)	Speed 0.9 samples/s	Data 0.112s (12.815s)	Loss 316.42493 (393.49787)	Accuracy 0.500 (0.510)	 Cls Loss: 0.69478	 loss_cstency: 111.39940	 loss_hsic: 0.00004
+Loading val dataloader successfully! -- 0.13924241065979004
+Loading Train dataloader successfully! -- 0.8299415111541748
+Loading Test dataloader successfully! -- 0.2900402545928955
+Starting training process...
+Loading val dataloader successfully! -- 0.12288928031921387
+Loading Train dataloader successfully! -- 0.86029052734375
+Loading Test dataloader successfully! -- 0.27584052085876465
+Starting training process...
+Loading val dataloader successfully! -- 0.11597871780395508
+Loading Train dataloader successfully! -- 0.8008177280426025
+Loading Test dataloader successfully! -- 0.24847984313964844
+Starting training process...
+Loading val dataloader successfully! -- 0.12597179412841797
+Loading Train dataloader successfully! -- 0.8171889781951904
+Loading Test dataloader successfully! -- 0.26224613189697266
+Starting training process...
+Loading val dataloader successfully! -- 0.11340570449829102
+Loading Train dataloader successfully! -- 0.7914421558380127
+Loading Test dataloader successfully! -- 0.24750924110412598
+Starting training process...
+Loading val dataloader successfully! -- 0.11429286003112793
+Loading Train dataloader successfully! -- 0.7934939861297607
+Loading Test dataloader successfully! -- 0.24651789665222168
+Starting training process...
+Loading val dataloader successfully! -- 0.11756706237792969
+Loading Train dataloader successfully! -- 0.8080501556396484
+Loading Test dataloader successfully! -- 0.24907946586608887
+Starting training process...
+Loading val dataloader successfully! -- 0.11875104904174805
+Loading Train dataloader successfully! -- 0.8121881484985352
+Loading Test dataloader successfully! -- 0.25566959381103516
+Starting training process...
+Loading val dataloader successfully! -- 0.11551165580749512
+Loading Train dataloader successfully! -- 0.7909977436065674
+Loading Test dataloader successfully! -- 0.24327731132507324
+Starting training process...
+Loading val dataloader successfully! -- 0.11409497261047363
+Loading Train dataloader successfully! -- 0.8077712059020996
+Loading Test dataloader successfully! -- 0.24640178680419922
+Starting training process...
+Loading val dataloader successfully! -- 0.11731219291687012
+Loading Train dataloader successfully! -- 0.8043444156646729
+Loading Test dataloader successfully! -- 0.2506532669067383
+Starting training process...
+Epoch: [0][0/640]	Time 92.321s (92.321s)	Speed 0.2 samples/s	Data 68.605s (68.605s)	Loss 523.11197 (523.11197)	Accuracy 0.438 (0.438)	 Cls Loss: 0.69351	 loss_cstency: 173.41316	 loss_hsic: 0.00002
+Loading val dataloader successfully! -- 0.11733531951904297
+Loading Train dataloader successfully! -- 0.813697338104248
+Loading Test dataloader successfully! -- 0.25534749031066895
+Starting training process...
+Epoch: [0][0/640]	Time 95.327s (95.327s)	Speed 0.2 samples/s	Data 68.800s (68.800s)	Loss 1006.28300 (1006.28300)	Accuracy 0.438 (0.438)	 Cls Loss: 0.69382	 loss_cstency: 358.38774	 loss_hsic: 0.00002

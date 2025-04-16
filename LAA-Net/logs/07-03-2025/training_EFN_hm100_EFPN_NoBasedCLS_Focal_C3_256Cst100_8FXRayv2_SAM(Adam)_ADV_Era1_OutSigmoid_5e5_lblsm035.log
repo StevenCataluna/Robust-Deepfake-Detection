@@ -1,0 +1,19 @@
+Loading val dataloader successfully! -- 12.933388948440552
+Loading Train dataloader successfully! -- 45.02499508857727
+Starting training process...
+Epoch: [0][0/510]	Time 23.323s (23.323s)	Speed 1.4 samples/s	Data 20.382s (20.382s)	Loss 344.65918 (344.65918)	Accuracy 0.406 (0.406)	 Cls Loss: 0.69604	 loss_cstency: 138.73070
+Epoch: [0][5/510]	Time 0.088s (3.965s)	Speed 362.5 samples/s	Data 0.010s (3.405s)	Loss 348.70816 (362.05996)	Accuracy 0.469 (0.490)	 Cls Loss: 0.69347	 loss_cstency: 139.89258
+Epoch: [0][10/510]	Time 0.091s (3.516s)	Speed 353.2 samples/s	Data 0.010s (3.156s)	Loss 377.22681 (359.86898)	Accuracy 0.531 (0.483)	 Cls Loss: 0.69331	 loss_cstency: 129.00990
+Epoch: [0][15/510]	Time 0.102s (3.353s)	Speed 312.5 samples/s	Data 0.010s (3.079s)	Loss 304.96347 (347.60102)	Accuracy 0.469 (0.492)	 Cls Loss: 0.69353	 loss_cstency: 113.14198
+Epoch: [0][20/510]	Time 0.090s (2.576s)	Speed 355.3 samples/s	Data 0.010s (2.348s)	Loss 305.06735 (337.79242)	Accuracy 0.500 (0.488)	 Cls Loss: 0.69255	 loss_cstency: 108.37830
+Epoch: [0][25/510]	Time 0.089s (2.606s)	Speed 357.7 samples/s	Data 0.010s (2.405s)	Loss 283.63696 (329.57090)	Accuracy 0.438 (0.487)	 Cls Loss: 0.69328	 loss_cstency: 100.10091
+Epoch: [0][30/510]	Time 3.415s (2.698s)	Speed 9.4 samples/s	Data 3.322s (2.515s)	Loss 298.60529 (324.38541)	Accuracy 0.438 (0.489)	 Cls Loss: 0.69146	 loss_cstency: 98.07999
+Epoch: [0][35/510]	Time 10.736s (2.632s)	Speed 3.0 samples/s	Data 10.643s (2.463s)	Loss 276.74405 (320.88647)	Accuracy 0.531 (0.490)	 Cls Loss: 0.69068	 loss_cstency: 88.22790
+Epoch: [0][40/510]	Time 0.089s (2.387s)	Speed 358.1 samples/s	Data 0.010s (2.228s)	Loss 314.76196 (317.92682)	Accuracy 0.500 (0.490)	 Cls Loss: 0.69360	 loss_cstency: 98.53207
+Epoch: [0][45/510]	Time 0.103s (2.415s)	Speed 311.8 samples/s	Data 0.010s (2.264s)	Loss 275.95047 (314.96412)	Accuracy 0.469 (0.494)	 Cls Loss: 0.69379	 loss_cstency: 88.96769
+Epoch: [0][50/510]	Time 1.924s (2.394s)	Speed 16.6 samples/s	Data 1.831s (2.249s)	Loss 300.21960 (312.86231)	Accuracy 0.500 (0.494)	 Cls Loss: 0.69373	 loss_cstency: 90.31705
+Epoch: [0][55/510]	Time 0.090s (2.262s)	Speed 354.1 samples/s	Data 0.010s (2.122s)	Loss 280.25095 (309.88679)	Accuracy 0.562 (0.498)	 Cls Loss: 0.69102	 loss_cstency: 88.25594
+Epoch: [0][60/510]	Time 0.090s (2.202s)	Speed 356.3 samples/s	Data 0.010s (2.067s)	Loss 286.33191 (307.51833)	Accuracy 0.469 (0.498)	 Cls Loss: 0.69552	 loss_cstency: 92.43555
+Epoch: [0][65/510]	Time 0.100s (2.262s)	Speed 321.2 samples/s	Data 0.010s (2.130s)	Loss 283.67499 (305.80338)	Accuracy 0.531 (0.499)	 Cls Loss: 0.69021	 loss_cstency: 87.20816
+Epoch: [0][70/510]	Time 7.207s (2.240s)	Speed 4.4 samples/s	Data 7.112s (2.112s)	Loss 282.15845 (303.66297)	Accuracy 0.469 (0.500)	 Cls Loss: 0.69384	 loss_cstency: 82.13721
+Epoch: [0][75/510]	Time 0.903s (2.166s)	Speed 35.4 samples/s	Data 0.822s (2.041s)	Loss 266.07245 (301.81940)	Accuracy 0.438 (0.499)	 Cls Loss: 0.69139	 loss_cstency: 84.78349

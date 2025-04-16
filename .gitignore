@@ -1,0 +1,3 @@
+LAA-Net/pretrained/*
+LAA-Net/.tensorboard/*
+**/__pycache__/

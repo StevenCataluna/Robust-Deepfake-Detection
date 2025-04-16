@@ -1,0 +1,15 @@
+PREPROCESSING:
+  DATASET: FaceForensics
+  COMPRESSION: c40
+  SPLIT: train
+  ROOT: C:/Users/tevca/Documents/College Work/LAA-Net/data/deepfake_cluster/datasets_df/FaceForensics++/c40/
+  FAKETYPE: [Original]
+  IMAGE_SUFFIX: png
+  DATA_TYPE: frames
+  LABEL: [real]
+  facial_lm_pretrained: pretrained/shape_predictor_81_face_landmarks.dat
+  N_LANDMARKS: 81
+  SAMPLING:
+    ACTIVE: False
+    NUMBERS: 8
+  DEBUG: False
